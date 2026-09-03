@@ -1,0 +1,2001 @@
+Customer_ID,Customer_Name,Gender,Age,City,Customer_Segment,Region
+CUST0001,Customer_1,Male,45,Ahmedabad,Consumer,West
+CUST0002,Customer_2,Female,24,Hyderabad,Consumer,South
+CUST0003,Customer_3,Female,52,Delhi,Consumer,North
+CUST0004,Customer_4,Female,45,Chennai,Consumer,South
+CUST0005,Customer_5,Male,31,Hyderabad,Consumer,South
+CUST0006,Customer_6,Male,27,Hyderabad,Consumer,South
+CUST0007,Customer_7,Male,33,Mumbai,Home Office,West
+CUST0008,Customer_8,Female,33,Hyderabad,Consumer,South
+CUST0009,Customer_9,Female,48,Ahmedabad,Consumer,West
+CUST0010,Customer_10,Female,59,Mumbai,Consumer,West
+CUST0011,Customer_11,Male,42,Chennai,Home Office,South
+CUST0012,Customer_12,Female,30,Kolkata,Corporate,East
+CUST0013,Customer_13,Female,23,Pune,Corporate,West
+CUST0014,Customer_14,Male,61,Pune,Home Office,West
+CUST0015,Customer_15,Male,26,Chennai,Consumer,South
+CUST0016,Customer_16,Male,62,Chennai,Consumer,South
+CUST0017,Customer_17,Male,53,Ahmedabad,Consumer,West
+CUST0018,Customer_18,Male,60,Bangalore,Consumer,South
+CUST0019,Customer_19,Male,37,Kolkata,Consumer,East
+CUST0020,Customer_20,Male,35,Chennai,Consumer,South
+CUST0021,Customer_21,Female,60,Hyderabad,Home Office,South
+CUST0022,Customer_22,Male,38,Ahmedabad,Home Office,West
+CUST0023,Customer_23,Male,21,Pune,Corporate,West
+CUST0024,Customer_24,Male,50,Delhi,Corporate,North
+CUST0025,Customer_25,Male,44,Ahmedabad,Corporate,West
+CUST0026,Customer_26,Female,24,Pune,Consumer,West
+CUST0027,Customer_27,Male,23,Mumbai,Consumer,West
+CUST0028,Customer_28,Male,32,Ahmedabad,Corporate,West
+CUST0029,Customer_29,Female,35,Pune,Corporate,West
+CUST0030,Customer_30,Male,49,Bangalore,Consumer,South
+CUST0031,Customer_31,Female,28,Ahmedabad,Home Office,West
+CUST0032,Customer_32,Male,37,Ahmedabad,Consumer,West
+CUST0033,Customer_33,Male,41,Kolkata,Consumer,East
+CUST0034,Customer_34,Female,32,Chennai,Corporate,South
+CUST0035,Customer_35,Female,24,Kolkata,Consumer,East
+CUST0036,Customer_36,Female,38,Ahmedabad,Consumer,West
+CUST0037,Customer_37,Male,59,Chennai,Consumer,South
+CUST0038,Customer_38,Male,43,Pune,Corporate,West
+CUST0039,Customer_39,Female,61,Delhi,Consumer,North
+CUST0040,Customer_40,Male,31,Delhi,Corporate,North
+CUST0041,Customer_41,Male,54,Ahmedabad,Consumer,West
+CUST0042,Customer_42,Male,38,Bangalore,Consumer,South
+CUST0043,Customer_43,Male,35,Mumbai,Home Office,West
+CUST0044,Customer_44,Female,22,Pune,Consumer,West
+CUST0045,Customer_45,Male,20,Chennai,Home Office,South
+CUST0046,Customer_46,Female,40,Ahmedabad,Consumer,West
+CUST0047,Customer_47,Male,43,Pune,Home Office,West
+CUST0048,Customer_48,Male,54,Ahmedabad,Consumer,West
+CUST0049,Customer_49,Male,41,Bangalore,Consumer,South
+CUST0050,Customer_50,Male,36,Hyderabad,Consumer,South
+CUST0051,Customer_51,Female,42,Hyderabad,Consumer,South
+CUST0052,Customer_52,Female,38,Bangalore,Consumer,South
+CUST0053,Customer_53,Female,29,Chennai,Consumer,South
+CUST0054,Customer_54,Female,58,Kolkata,Consumer,East
+CUST0055,Customer_55,Female,50,Bangalore,Consumer,South
+CUST0056,Customer_56,Female,21,Ahmedabad,Consumer,West
+CUST0057,Customer_57,Male,59,Chennai,Corporate,South
+CUST0058,Customer_58,Male,24,Delhi,Consumer,North
+CUST0059,Customer_59,Male,39,Bangalore,Consumer,South
+CUST0060,Customer_60,Male,50,Chennai,Consumer,South
+CUST0061,Customer_61,Male,34,Bangalore,Corporate,South
+CUST0062,Customer_62,Male,41,Bangalore,Consumer,South
+CUST0063,Customer_63,Female,51,Kolkata,Corporate,East
+CUST0064,Customer_64,Male,45,Kolkata,Home Office,East
+CUST0065,Customer_65,Male,60,Ahmedabad,Corporate,West
+CUST0066,Customer_66,Male,58,Chennai,Consumer,South
+CUST0067,Customer_67,Male,56,Chennai,Consumer,South
+CUST0068,Customer_68,Female,39,Mumbai,Corporate,West
+CUST0069,Customer_69,Male,34,Bangalore,Consumer,South
+CUST0070,Customer_70,Female,51,Hyderabad,Consumer,South
+CUST0071,Customer_71,Female,23,Bangalore,Consumer,South
+CUST0072,Customer_72,Male,63,Bangalore,Corporate,South
+CUST0073,Customer_73,Male,23,Chennai,Consumer,South
+CUST0074,Customer_74,Female,51,Bangalore,Corporate,South
+CUST0075,Customer_75,Female,18,Pune,Consumer,West
+CUST0076,Customer_76,Female,27,Bangalore,Consumer,South
+CUST0077,Customer_77,Female,38,Pune,Consumer,West
+CUST0078,Customer_78,Male,22,Kolkata,Consumer,East
+CUST0079,Customer_79,Male,19,Hyderabad,Home Office,South
+CUST0080,Customer_80,Male,39,Ahmedabad,Home Office,West
+CUST0081,Customer_81,Female,19,Chennai,Corporate,South
+CUST0082,Customer_82,Female,27,Bangalore,Consumer,South
+CUST0083,Customer_83,Male,51,Pune,Corporate,West
+CUST0084,Customer_84,Male,33,Pune,Consumer,West
+CUST0085,Customer_85,Male,56,Kolkata,Consumer,East
+CUST0086,Customer_86,Male,39,Pune,Consumer,West
+CUST0087,Customer_87,Female,29,Ahmedabad,Consumer,West
+CUST0088,Customer_88,Female,41,Delhi,Corporate,North
+CUST0089,Customer_89,Female,64,Mumbai,Home Office,West
+CUST0090,Customer_90,Male,57,Ahmedabad,Consumer,West
+CUST0091,Customer_91,Male,55,Hyderabad,Corporate,South
+CUST0092,Customer_92,Female,27,Ahmedabad,Consumer,West
+CUST0093,Customer_93,Female,52,Kolkata,Consumer,East
+CUST0094,Customer_94,Female,49,Kolkata,Consumer,East
+CUST0095,Customer_95,Female,24,Ahmedabad,Consumer,West
+CUST0096,Customer_96,Male,38,Bangalore,Consumer,South
+CUST0097,Customer_97,Male,37,Delhi,Consumer,North
+CUST0098,Customer_98,Male,43,Bangalore,Corporate,South
+CUST0099,Customer_99,Male,21,Bangalore,Corporate,South
+CUST0100,Customer_100,Male,63,Ahmedabad,Consumer,West
+CUST0101,Customer_101,Male,39,Chennai,Home Office,South
+CUST0102,Customer_102,Female,32,Chennai,Consumer,South
+CUST0103,Customer_103,Male,57,Chennai,Consumer,South
+CUST0104,Customer_104,Male,38,Delhi,Corporate,North
+CUST0105,Customer_105,Female,32,Bangalore,Consumer,South
+CUST0106,Customer_106,Male,39,Mumbai,Consumer,West
+CUST0107,Customer_107,Male,45,Hyderabad,Consumer,South
+CUST0108,Customer_108,Female,31,Chennai,Consumer,South
+CUST0109,Customer_109,Male,44,Chennai,Corporate,South
+CUST0110,Customer_110,Male,58,Kolkata,Consumer,East
+CUST0111,Customer_111,Male,57,Bangalore,Consumer,South
+CUST0112,Customer_112,Male,45,Bangalore,Consumer,South
+CUST0113,Customer_113,Female,43,Delhi,Corporate,North
+CUST0114,Customer_114,Female,19,Delhi,Consumer,North
+CUST0115,Customer_115,Female,42,Chennai,Corporate,South
+CUST0116,Customer_116,Female,20,Bangalore,Consumer,South
+CUST0117,Customer_117,Female,25,Mumbai,Consumer,West
+CUST0118,Customer_118,Male,61,Hyderabad,Consumer,South
+CUST0119,Customer_119,Female,50,Ahmedabad,Consumer,West
+CUST0120,Customer_120,Male,59,Bangalore,Consumer,South
+CUST0121,Customer_121,Female,52,Kolkata,Consumer,East
+CUST0122,Customer_122,Female,23,Ahmedabad,Home Office,West
+CUST0123,Customer_123,Male,56,Bangalore,Consumer,South
+CUST0124,Customer_124,Male,40,Pune,Corporate,West
+CUST0125,Customer_125,Male,42,Delhi,Consumer,North
+CUST0126,Customer_126,Male,60,Kolkata,Consumer,East
+CUST0127,Customer_127,Female,36,Hyderabad,Consumer,South
+CUST0128,Customer_128,Female,22,Chennai,Home Office,South
+CUST0129,Customer_129,Male,28,Kolkata,Consumer,East
+CUST0130,Customer_130,Male,29,Bangalore,Consumer,South
+CUST0131,Customer_131,Male,27,Chennai,Consumer,South
+CUST0132,Customer_132,Male,25,Bangalore,Consumer,South
+CUST0133,Customer_133,Male,41,Chennai,Consumer,South
+CUST0134,Customer_134,Male,45,Hyderabad,Consumer,South
+CUST0135,Customer_135,Female,58,Delhi,Consumer,North
+CUST0136,Customer_136,Male,53,Hyderabad,Consumer,South
+CUST0137,Customer_137,Male,54,Pune,Corporate,West
+CUST0138,Customer_138,Female,38,Mumbai,Consumer,West
+CUST0139,Customer_139,Male,25,Delhi,Consumer,North
+CUST0140,Customer_140,Female,26,Hyderabad,Consumer,South
+CUST0141,Customer_141,Female,64,Pune,Consumer,West
+CUST0142,Customer_142,Male,32,Mumbai,Consumer,West
+CUST0143,Customer_143,Male,63,Pune,Consumer,West
+CUST0144,Customer_144,Male,57,Bangalore,Consumer,South
+CUST0145,Customer_145,Male,35,Ahmedabad,Consumer,West
+CUST0146,Customer_146,Male,59,Bangalore,Consumer,South
+CUST0147,Customer_147,Female,37,Chennai,Consumer,South
+CUST0148,Customer_148,Male,23,Delhi,Corporate,North
+CUST0149,Customer_149,Male,29,Bangalore,Consumer,South
+CUST0150,Customer_150,Male,19,Kolkata,Consumer,East
+CUST0151,Customer_151,Female,24,Pune,Consumer,West
+CUST0152,Customer_152,Male,33,Delhi,Consumer,North
+CUST0153,Customer_153,Male,20,Ahmedabad,Consumer,West
+CUST0154,Customer_154,Male,62,Kolkata,Consumer,East
+CUST0155,Customer_155,Female,20,Bangalore,Corporate,South
+CUST0156,Customer_156,Male,44,Chennai,Consumer,South
+CUST0157,Customer_157,Female,60,Hyderabad,Consumer,South
+CUST0158,Customer_158,Female,57,Chennai,Consumer,South
+CUST0159,Customer_159,Male,55,Kolkata,Consumer,East
+CUST0160,Customer_160,Female,50,Mumbai,Consumer,West
+CUST0161,Customer_161,Male,45,Bangalore,Corporate,South
+CUST0162,Customer_162,Female,18,Kolkata,Consumer,East
+CUST0163,Customer_163,Female,25,Mumbai,Corporate,West
+CUST0164,Customer_164,Male,54,Mumbai,Corporate,West
+CUST0165,Customer_165,Male,49,Pune,Corporate,West
+CUST0166,Customer_166,Female,60,Delhi,Consumer,North
+CUST0167,Customer_167,Male,54,Pune,Consumer,West
+CUST0168,Customer_168,Male,21,Bangalore,Consumer,South
+CUST0169,Customer_169,Male,47,Mumbai,Consumer,West
+CUST0170,Customer_170,Female,23,Ahmedabad,Consumer,West
+CUST0171,Customer_171,Female,63,Kolkata,Home Office,East
+CUST0172,Customer_172,Male,36,Hyderabad,Consumer,South
+CUST0173,Customer_173,Male,49,Mumbai,Consumer,West
+CUST0174,Customer_174,Male,26,Kolkata,Consumer,East
+CUST0175,Customer_175,Female,29,Ahmedabad,Consumer,West
+CUST0176,Customer_176,Male,28,Hyderabad,Consumer,South
+CUST0177,Customer_177,Female,63,Pune,Corporate,West
+CUST0178,Customer_178,Male,33,Pune,Corporate,West
+CUST0179,Customer_179,Female,18,Delhi,Corporate,North
+CUST0180,Customer_180,Male,62,Kolkata,Home Office,East
+CUST0181,Customer_181,Male,38,Mumbai,Corporate,West
+CUST0182,Customer_182,Male,47,Chennai,Consumer,South
+CUST0183,Customer_183,Female,30,Pune,Corporate,West
+CUST0184,Customer_184,Female,51,Pune,Consumer,West
+CUST0185,Customer_185,Male,21,Delhi,Consumer,North
+CUST0186,Customer_186,Female,45,Hyderabad,Consumer,South
+CUST0187,Customer_187,Female,55,Delhi,Consumer,North
+CUST0188,Customer_188,Female,48,Ahmedabad,Consumer,West
+CUST0189,Customer_189,Male,44,Mumbai,Consumer,West
+CUST0190,Customer_190,Male,22,Kolkata,Consumer,East
+CUST0191,Customer_191,Male,42,Bangalore,Home Office,South
+CUST0192,Customer_192,Female,20,Bangalore,Consumer,South
+CUST0193,Customer_193,Female,50,Kolkata,Consumer,East
+CUST0194,Customer_194,Female,21,Hyderabad,Consumer,South
+CUST0195,Customer_195,Male,42,Ahmedabad,Consumer,West
+CUST0196,Customer_196,Male,37,Pune,Home Office,West
+CUST0197,Customer_197,Female,51,Hyderabad,Consumer,South
+CUST0198,Customer_198,Female,43,Pune,Consumer,West
+CUST0199,Customer_199,Female,22,Pune,Corporate,West
+CUST0200,Customer_200,Female,52,Bangalore,Home Office,South
+CUST0201,Customer_201,Female,45,Hyderabad,Consumer,South
+CUST0202,Customer_202,Male,46,Ahmedabad,Corporate,West
+CUST0203,Customer_203,Male,26,Delhi,Consumer,North
+CUST0204,Customer_204,Female,55,Pune,Consumer,West
+CUST0205,Customer_205,Female,23,Chennai,Consumer,South
+CUST0206,Customer_206,Male,36,Chennai,Home Office,South
+CUST0207,Customer_207,Male,61,Delhi,Consumer,North
+CUST0208,Customer_208,Female,28,Chennai,Consumer,South
+CUST0209,Customer_209,Male,19,Mumbai,Consumer,West
+CUST0210,Customer_210,Male,64,Pune,Consumer,West
+CUST0211,Customer_211,Male,61,Delhi,Consumer,North
+CUST0212,Customer_212,Female,61,Hyderabad,Home Office,South
+CUST0213,Customer_213,Female,26,Pune,Consumer,West
+CUST0214,Customer_214,Male,38,Delhi,Consumer,North
+CUST0215,Customer_215,Female,41,Bangalore,Corporate,South
+CUST0216,Customer_216,Male,51,Ahmedabad,Consumer,West
+CUST0217,Customer_217,Male,39,Hyderabad,Consumer,South
+CUST0218,Customer_218,Female,20,Ahmedabad,Consumer,West
+CUST0219,Customer_219,Female,29,Bangalore,Consumer,South
+CUST0220,Customer_220,Female,45,Pune,Consumer,West
+CUST0221,Customer_221,Female,47,Hyderabad,Consumer,South
+CUST0222,Customer_222,Female,43,Ahmedabad,Consumer,West
+CUST0223,Customer_223,Male,38,Chennai,Consumer,South
+CUST0224,Customer_224,Male,45,Ahmedabad,Home Office,West
+CUST0225,Customer_225,Male,43,Delhi,Corporate,North
+CUST0226,Customer_226,Male,50,Pune,Corporate,West
+CUST0227,Customer_227,Female,38,Mumbai,Corporate,West
+CUST0228,Customer_228,Male,52,Ahmedabad,Consumer,West
+CUST0229,Customer_229,Female,51,Hyderabad,Corporate,South
+CUST0230,Customer_230,Female,58,Hyderabad,Consumer,South
+CUST0231,Customer_231,Female,64,Kolkata,Corporate,East
+CUST0232,Customer_232,Male,35,Ahmedabad,Consumer,West
+CUST0233,Customer_233,Female,28,Pune,Consumer,West
+CUST0234,Customer_234,Male,40,Pune,Corporate,West
+CUST0235,Customer_235,Male,39,Bangalore,Home Office,South
+CUST0236,Customer_236,Female,34,Kolkata,Consumer,East
+CUST0237,Customer_237,Male,22,Ahmedabad,Corporate,West
+CUST0238,Customer_238,Male,61,Chennai,Consumer,South
+CUST0239,Customer_239,Female,28,Bangalore,Consumer,South
+CUST0240,Customer_240,Male,47,Kolkata,Consumer,East
+CUST0241,Customer_241,Female,32,Ahmedabad,Consumer,West
+CUST0242,Customer_242,Female,44,Ahmedabad,Home Office,West
+CUST0243,Customer_243,Female,52,Bangalore,Home Office,South
+CUST0244,Customer_244,Male,50,Chennai,Corporate,South
+CUST0245,Customer_245,Male,37,Kolkata,Consumer,East
+CUST0246,Customer_246,Female,33,Ahmedabad,Home Office,West
+CUST0247,Customer_247,Male,51,Ahmedabad,Consumer,West
+CUST0248,Customer_248,Female,19,Kolkata,Home Office,East
+CUST0249,Customer_249,Female,52,Mumbai,Consumer,West
+CUST0250,Customer_250,Female,57,Bangalore,Consumer,South
+CUST0251,Customer_251,Male,45,Bangalore,Corporate,South
+CUST0252,Customer_252,Male,64,Hyderabad,Consumer,South
+CUST0253,Customer_253,Female,56,Chennai,Consumer,South
+CUST0254,Customer_254,Male,23,Delhi,Consumer,North
+CUST0255,Customer_255,Male,26,Mumbai,Consumer,West
+CUST0256,Customer_256,Female,37,Kolkata,Consumer,East
+CUST0257,Customer_257,Female,18,Kolkata,Consumer,East
+CUST0258,Customer_258,Female,25,Kolkata,Consumer,East
+CUST0259,Customer_259,Female,40,Mumbai,Consumer,West
+CUST0260,Customer_260,Male,20,Ahmedabad,Corporate,West
+CUST0261,Customer_261,Female,21,Kolkata,Consumer,East
+CUST0262,Customer_262,Female,42,Kolkata,Home Office,East
+CUST0263,Customer_263,Male,64,Chennai,Home Office,South
+CUST0264,Customer_264,Male,55,Pune,Consumer,West
+CUST0265,Customer_265,Female,32,Pune,Corporate,West
+CUST0266,Customer_266,Female,38,Hyderabad,Corporate,South
+CUST0267,Customer_267,Female,52,Hyderabad,Home Office,South
+CUST0268,Customer_268,Female,63,Kolkata,Consumer,East
+CUST0269,Customer_269,Male,31,Chennai,Consumer,South
+CUST0270,Customer_270,Male,53,Kolkata,Consumer,East
+CUST0271,Customer_271,Female,29,Hyderabad,Consumer,South
+CUST0272,Customer_272,Female,34,Mumbai,Consumer,West
+CUST0273,Customer_273,Female,56,Mumbai,Consumer,West
+CUST0274,Customer_274,Female,26,Ahmedabad,Home Office,West
+CUST0275,Customer_275,Male,52,Delhi,Home Office,North
+CUST0276,Customer_276,Male,30,Pune,Consumer,West
+CUST0277,Customer_277,Female,32,Chennai,Consumer,South
+CUST0278,Customer_278,Female,35,Bangalore,Consumer,South
+CUST0279,Customer_279,Female,50,Pune,Corporate,West
+CUST0280,Customer_280,Female,23,Bangalore,Corporate,South
+CUST0281,Customer_281,Female,44,Delhi,Consumer,North
+CUST0282,Customer_282,Male,40,Delhi,Consumer,North
+CUST0283,Customer_283,Male,44,Kolkata,Consumer,East
+CUST0284,Customer_284,Male,51,Hyderabad,Consumer,South
+CUST0285,Customer_285,Female,63,Delhi,Consumer,North
+CUST0286,Customer_286,Male,55,Delhi,Corporate,North
+CUST0287,Customer_287,Male,31,Bangalore,Home Office,South
+CUST0288,Customer_288,Male,53,Hyderabad,Home Office,South
+CUST0289,Customer_289,Male,25,Delhi,Home Office,North
+CUST0290,Customer_290,Female,52,Pune,Consumer,West
+CUST0291,Customer_291,Male,36,Ahmedabad,Consumer,West
+CUST0292,Customer_292,Male,47,Delhi,Corporate,North
+CUST0293,Customer_293,Female,31,Ahmedabad,Home Office,West
+CUST0294,Customer_294,Male,37,Hyderabad,Consumer,South
+CUST0295,Customer_295,Male,42,Kolkata,Consumer,East
+CUST0296,Customer_296,Male,57,Chennai,Consumer,South
+CUST0297,Customer_297,Female,41,Hyderabad,Consumer,South
+CUST0298,Customer_298,Male,31,Bangalore,Consumer,South
+CUST0299,Customer_299,Female,43,Chennai,Consumer,South
+CUST0300,Customer_300,Male,55,Pune,Consumer,West
+CUST0301,Customer_301,Male,40,Mumbai,Consumer,West
+CUST0302,Customer_302,Male,39,Ahmedabad,Home Office,West
+CUST0303,Customer_303,Male,36,Ahmedabad,Consumer,West
+CUST0304,Customer_304,Female,63,Ahmedabad,Corporate,West
+CUST0305,Customer_305,Female,20,Hyderabad,Consumer,South
+CUST0306,Customer_306,Female,59,Ahmedabad,Home Office,West
+CUST0307,Customer_307,Male,36,Kolkata,Consumer,East
+CUST0308,Customer_308,Male,26,Ahmedabad,Home Office,West
+CUST0309,Customer_309,Female,45,Bangalore,Consumer,South
+CUST0310,Customer_310,Male,37,Pune,Home Office,West
+CUST0311,Customer_311,Male,62,Ahmedabad,Home Office,West
+CUST0312,Customer_312,Male,24,Ahmedabad,Consumer,West
+CUST0313,Customer_313,Male,31,Chennai,Consumer,South
+CUST0314,Customer_314,Female,26,Pune,Consumer,West
+CUST0315,Customer_315,Female,36,Ahmedabad,Consumer,West
+CUST0316,Customer_316,Female,64,Hyderabad,Consumer,South
+CUST0317,Customer_317,Male,31,Delhi,Consumer,North
+CUST0318,Customer_318,Male,55,Kolkata,Consumer,East
+CUST0319,Customer_319,Male,53,Hyderabad,Consumer,South
+CUST0320,Customer_320,Male,57,Mumbai,Consumer,West
+CUST0321,Customer_321,Male,34,Hyderabad,Consumer,South
+CUST0322,Customer_322,Female,47,Chennai,Consumer,South
+CUST0323,Customer_323,Female,26,Chennai,Consumer,South
+CUST0324,Customer_324,Male,50,Ahmedabad,Consumer,West
+CUST0325,Customer_325,Female,42,Hyderabad,Consumer,South
+CUST0326,Customer_326,Female,31,Chennai,Home Office,South
+CUST0327,Customer_327,Female,28,Delhi,Consumer,North
+CUST0328,Customer_328,Female,52,Pune,Consumer,West
+CUST0329,Customer_329,Male,58,Hyderabad,Consumer,South
+CUST0330,Customer_330,Male,31,Kolkata,Corporate,East
+CUST0331,Customer_331,Male,47,Delhi,Home Office,North
+CUST0332,Customer_332,Female,58,Ahmedabad,Home Office,West
+CUST0333,Customer_333,Male,21,Pune,Corporate,West
+CUST0334,Customer_334,Male,21,Kolkata,Consumer,East
+CUST0335,Customer_335,Male,45,Ahmedabad,Consumer,West
+CUST0336,Customer_336,Male,25,Kolkata,Consumer,East
+CUST0337,Customer_337,Female,19,Ahmedabad,Home Office,West
+CUST0338,Customer_338,Female,58,Kolkata,Corporate,East
+CUST0339,Customer_339,Male,63,Pune,Corporate,West
+CUST0340,Customer_340,Male,39,Delhi,Consumer,North
+CUST0341,Customer_341,Male,58,Kolkata,Corporate,East
+CUST0342,Customer_342,Male,33,Kolkata,Consumer,East
+CUST0343,Customer_343,Male,46,Bangalore,Consumer,South
+CUST0344,Customer_344,Male,47,Hyderabad,Consumer,South
+CUST0345,Customer_345,Male,29,Pune,Consumer,West
+CUST0346,Customer_346,Female,52,Ahmedabad,Consumer,West
+CUST0347,Customer_347,Female,28,Pune,Home Office,West
+CUST0348,Customer_348,Male,63,Chennai,Consumer,South
+CUST0349,Customer_349,Male,38,Ahmedabad,Consumer,West
+CUST0350,Customer_350,Female,38,Pune,Consumer,West
+CUST0351,Customer_351,Male,22,Delhi,Consumer,North
+CUST0352,Customer_352,Female,37,Ahmedabad,Corporate,West
+CUST0353,Customer_353,Female,54,Ahmedabad,Corporate,West
+CUST0354,Customer_354,Male,20,Pune,Corporate,West
+CUST0355,Customer_355,Male,61,Ahmedabad,Home Office,West
+CUST0356,Customer_356,Female,50,Bangalore,Corporate,South
+CUST0357,Customer_357,Male,26,Hyderabad,Consumer,South
+CUST0358,Customer_358,Female,26,Ahmedabad,Corporate,West
+CUST0359,Customer_359,Female,21,Hyderabad,Consumer,South
+CUST0360,Customer_360,Female,52,Pune,Consumer,West
+CUST0361,Customer_361,Male,34,Kolkata,Consumer,East
+CUST0362,Customer_362,Female,51,Mumbai,Corporate,West
+CUST0363,Customer_363,Male,41,Mumbai,Corporate,West
+CUST0364,Customer_364,Male,49,Kolkata,Consumer,East
+CUST0365,Customer_365,Female,18,Kolkata,Corporate,East
+CUST0366,Customer_366,Male,25,Kolkata,Home Office,East
+CUST0367,Customer_367,Female,62,Delhi,Consumer,North
+CUST0368,Customer_368,Female,40,Mumbai,Consumer,West
+CUST0369,Customer_369,Male,64,Kolkata,Corporate,East
+CUST0370,Customer_370,Male,57,Delhi,Consumer,North
+CUST0371,Customer_371,Male,29,Chennai,Consumer,South
+CUST0372,Customer_372,Male,29,Ahmedabad,Consumer,West
+CUST0373,Customer_373,Male,63,Delhi,Consumer,North
+CUST0374,Customer_374,Female,64,Mumbai,Corporate,West
+CUST0375,Customer_375,Male,32,Pune,Corporate,West
+CUST0376,Customer_376,Male,58,Chennai,Corporate,South
+CUST0377,Customer_377,Female,36,Mumbai,Home Office,West
+CUST0378,Customer_378,Male,43,Ahmedabad,Corporate,West
+CUST0379,Customer_379,Female,46,Delhi,Corporate,North
+CUST0380,Customer_380,Male,39,Bangalore,Consumer,South
+CUST0381,Customer_381,Male,57,Hyderabad,Consumer,South
+CUST0382,Customer_382,Female,38,Ahmedabad,Consumer,West
+CUST0383,Customer_383,Female,55,Mumbai,Corporate,West
+CUST0384,Customer_384,Female,37,Kolkata,Consumer,East
+CUST0385,Customer_385,Female,46,Delhi,Consumer,North
+CUST0386,Customer_386,Female,21,Kolkata,Consumer,East
+CUST0387,Customer_387,Male,24,Kolkata,Corporate,East
+CUST0388,Customer_388,Male,45,Kolkata,Home Office,East
+CUST0389,Customer_389,Female,45,Kolkata,Consumer,East
+CUST0390,Customer_390,Female,21,Kolkata,Home Office,East
+CUST0391,Customer_391,Female,39,Chennai,Consumer,South
+CUST0392,Customer_392,Male,29,Mumbai,Consumer,West
+CUST0393,Customer_393,Male,62,Ahmedabad,Home Office,West
+CUST0394,Customer_394,Female,20,Mumbai,Consumer,West
+CUST0395,Customer_395,Male,39,Ahmedabad,Home Office,West
+CUST0396,Customer_396,Female,61,Hyderabad,Consumer,South
+CUST0397,Customer_397,Female,19,Delhi,Consumer,North
+CUST0398,Customer_398,Male,41,Bangalore,Home Office,South
+CUST0399,Customer_399,Female,51,Chennai,Consumer,South
+CUST0400,Customer_400,Female,44,Delhi,Home Office,North
+CUST0401,Customer_401,Male,58,Chennai,Home Office,South
+CUST0402,Customer_402,Female,18,Ahmedabad,Consumer,West
+CUST0403,Customer_403,Male,25,Mumbai,Consumer,West
+CUST0404,Customer_404,Female,40,Kolkata,Consumer,East
+CUST0405,Customer_405,Male,55,Hyderabad,Consumer,South
+CUST0406,Customer_406,Female,23,Hyderabad,Consumer,South
+CUST0407,Customer_407,Male,39,Pune,Consumer,West
+CUST0408,Customer_408,Male,42,Bangalore,Consumer,South
+CUST0409,Customer_409,Female,35,Hyderabad,Consumer,South
+CUST0410,Customer_410,Male,34,Kolkata,Home Office,East
+CUST0411,Customer_411,Male,29,Mumbai,Corporate,West
+CUST0412,Customer_412,Female,23,Bangalore,Corporate,South
+CUST0413,Customer_413,Female,43,Ahmedabad,Consumer,West
+CUST0414,Customer_414,Female,44,Delhi,Corporate,North
+CUST0415,Customer_415,Female,25,Ahmedabad,Consumer,West
+CUST0416,Customer_416,Male,36,Kolkata,Corporate,East
+CUST0417,Customer_417,Male,59,Kolkata,Home Office,East
+CUST0418,Customer_418,Male,18,Hyderabad,Consumer,South
+CUST0419,Customer_419,Female,46,Bangalore,Corporate,South
+CUST0420,Customer_420,Female,62,Mumbai,Corporate,West
+CUST0421,Customer_421,Female,52,Ahmedabad,Home Office,West
+CUST0422,Customer_422,Female,57,Pune,Corporate,West
+CUST0423,Customer_423,Male,31,Ahmedabad,Consumer,West
+CUST0424,Customer_424,Male,52,Chennai,Consumer,South
+CUST0425,Customer_425,Male,62,Chennai,Consumer,South
+CUST0426,Customer_426,Male,37,Mumbai,Corporate,West
+CUST0427,Customer_427,Male,30,Mumbai,Consumer,West
+CUST0428,Customer_428,Female,55,Chennai,Home Office,South
+CUST0429,Customer_429,Male,63,Pune,Consumer,West
+CUST0430,Customer_430,Male,25,Bangalore,Consumer,South
+CUST0431,Customer_431,Male,60,Chennai,Consumer,South
+CUST0432,Customer_432,Female,37,Mumbai,Corporate,West
+CUST0433,Customer_433,Female,50,Hyderabad,Consumer,South
+CUST0434,Customer_434,Male,43,Delhi,Consumer,North
+CUST0435,Customer_435,Male,56,Pune,Consumer,West
+CUST0436,Customer_436,Female,38,Kolkata,Consumer,East
+CUST0437,Customer_437,Male,59,Pune,Consumer,West
+CUST0438,Customer_438,Female,60,Hyderabad,Corporate,South
+CUST0439,Customer_439,Female,58,Hyderabad,Consumer,South
+CUST0440,Customer_440,Male,26,Kolkata,Consumer,East
+CUST0441,Customer_441,Male,41,Ahmedabad,Corporate,West
+CUST0442,Customer_442,Female,54,Mumbai,Home Office,West
+CUST0443,Customer_443,Male,58,Chennai,Consumer,South
+CUST0444,Customer_444,Male,34,Ahmedabad,Consumer,West
+CUST0445,Customer_445,Female,41,Bangalore,Home Office,South
+CUST0446,Customer_446,Female,38,Pune,Home Office,West
+CUST0447,Customer_447,Female,56,Kolkata,Corporate,East
+CUST0448,Customer_448,Female,58,Pune,Consumer,West
+CUST0449,Customer_449,Male,56,Ahmedabad,Consumer,West
+CUST0450,Customer_450,Male,30,Hyderabad,Corporate,South
+CUST0451,Customer_451,Female,28,Chennai,Consumer,South
+CUST0452,Customer_452,Female,63,Pune,Consumer,West
+CUST0453,Customer_453,Male,36,Bangalore,Corporate,South
+CUST0454,Customer_454,Female,28,Hyderabad,Corporate,South
+CUST0455,Customer_455,Male,30,Bangalore,Consumer,South
+CUST0456,Customer_456,Male,63,Chennai,Corporate,South
+CUST0457,Customer_457,Male,62,Pune,Consumer,West
+CUST0458,Customer_458,Male,18,Delhi,Consumer,North
+CUST0459,Customer_459,Male,57,Ahmedabad,Corporate,West
+CUST0460,Customer_460,Male,61,Pune,Consumer,West
+CUST0461,Customer_461,Male,36,Ahmedabad,Consumer,West
+CUST0462,Customer_462,Female,29,Chennai,Home Office,South
+CUST0463,Customer_463,Female,25,Pune,Consumer,West
+CUST0464,Customer_464,Female,25,Ahmedabad,Consumer,West
+CUST0465,Customer_465,Female,62,Kolkata,Home Office,East
+CUST0466,Customer_466,Male,29,Ahmedabad,Corporate,West
+CUST0467,Customer_467,Male,50,Pune,Corporate,West
+CUST0468,Customer_468,Female,62,Mumbai,Home Office,West
+CUST0469,Customer_469,Male,43,Pune,Consumer,West
+CUST0470,Customer_470,Female,56,Pune,Corporate,West
+CUST0471,Customer_471,Male,45,Ahmedabad,Consumer,West
+CUST0472,Customer_472,Female,22,Bangalore,Corporate,South
+CUST0473,Customer_473,Male,25,Delhi,Consumer,North
+CUST0474,Customer_474,Female,42,Bangalore,Consumer,South
+CUST0475,Customer_475,Male,44,Ahmedabad,Consumer,West
+CUST0476,Customer_476,Female,63,Bangalore,Consumer,South
+CUST0477,Customer_477,Male,40,Hyderabad,Corporate,South
+CUST0478,Customer_478,Female,47,Mumbai,Consumer,West
+CUST0479,Customer_479,Female,62,Bangalore,Consumer,South
+CUST0480,Customer_480,Male,64,Kolkata,Consumer,East
+CUST0481,Customer_481,Female,40,Chennai,Consumer,South
+CUST0482,Customer_482,Female,64,Kolkata,Corporate,East
+CUST0483,Customer_483,Male,37,Chennai,Corporate,South
+CUST0484,Customer_484,Female,35,Pune,Corporate,West
+CUST0485,Customer_485,Female,35,Hyderabad,Home Office,South
+CUST0486,Customer_486,Female,19,Mumbai,Corporate,West
+CUST0487,Customer_487,Male,21,Kolkata,Consumer,East
+CUST0488,Customer_488,Male,47,Mumbai,Corporate,West
+CUST0489,Customer_489,Female,50,Kolkata,Home Office,East
+CUST0490,Customer_490,Female,53,Pune,Consumer,West
+CUST0491,Customer_491,Male,35,Chennai,Corporate,South
+CUST0492,Customer_492,Female,54,Delhi,Corporate,North
+CUST0493,Customer_493,Male,36,Hyderabad,Consumer,South
+CUST0494,Customer_494,Male,64,Kolkata,Consumer,East
+CUST0495,Customer_495,Male,45,Kolkata,Consumer,East
+CUST0496,Customer_496,Male,57,Pune,Home Office,West
+CUST0497,Customer_497,Female,37,Hyderabad,Corporate,South
+CUST0498,Customer_498,Male,50,Chennai,Consumer,South
+CUST0499,Customer_499,Female,29,Chennai,Home Office,South
+CUST0500,Customer_500,Female,32,Kolkata,Consumer,East
+CUST0501,Customer_501,Female,58,Delhi,Consumer,North
+CUST0502,Customer_502,Male,56,Delhi,Corporate,North
+CUST0503,Customer_503,Male,19,Mumbai,Corporate,West
+CUST0504,Customer_504,Female,46,Hyderabad,Consumer,South
+CUST0505,Customer_505,Female,58,Hyderabad,Consumer,South
+CUST0506,Customer_506,Male,27,Chennai,Consumer,South
+CUST0507,Customer_507,Female,19,Mumbai,Consumer,West
+CUST0508,Customer_508,Female,28,Pune,Consumer,West
+CUST0509,Customer_509,Female,30,Hyderabad,Consumer,South
+CUST0510,Customer_510,Female,27,Mumbai,Consumer,West
+CUST0511,Customer_511,Female,31,Mumbai,Consumer,West
+CUST0512,Customer_512,Male,35,Kolkata,Consumer,East
+CUST0513,Customer_513,Female,26,Chennai,Consumer,South
+CUST0514,Customer_514,Female,56,Mumbai,Home Office,West
+CUST0515,Customer_515,Male,45,Ahmedabad,Corporate,West
+CUST0516,Customer_516,Male,20,Delhi,Consumer,North
+CUST0517,Customer_517,Male,37,Ahmedabad,Consumer,West
+CUST0518,Customer_518,Female,23,Delhi,Consumer,North
+CUST0519,Customer_519,Female,44,Bangalore,Consumer,South
+CUST0520,Customer_520,Male,19,Chennai,Consumer,South
+CUST0521,Customer_521,Female,46,Kolkata,Consumer,East
+CUST0522,Customer_522,Male,55,Pune,Consumer,West
+CUST0523,Customer_523,Female,20,Ahmedabad,Corporate,West
+CUST0524,Customer_524,Female,33,Ahmedabad,Consumer,West
+CUST0525,Customer_525,Female,47,Bangalore,Consumer,South
+CUST0526,Customer_526,Male,57,Delhi,Corporate,North
+CUST0527,Customer_527,Male,19,Kolkata,Consumer,East
+CUST0528,Customer_528,Male,34,Bangalore,Consumer,South
+CUST0529,Customer_529,Male,58,Chennai,Consumer,South
+CUST0530,Customer_530,Female,29,Kolkata,Consumer,East
+CUST0531,Customer_531,Female,52,Chennai,Corporate,South
+CUST0532,Customer_532,Female,60,Mumbai,Consumer,West
+CUST0533,Customer_533,Female,18,Hyderabad,Consumer,South
+CUST0534,Customer_534,Female,62,Mumbai,Consumer,West
+CUST0535,Customer_535,Female,32,Chennai,Consumer,South
+CUST0536,Customer_536,Female,43,Ahmedabad,Home Office,West
+CUST0537,Customer_537,Female,54,Kolkata,Corporate,East
+CUST0538,Customer_538,Male,38,Delhi,Consumer,North
+CUST0539,Customer_539,Male,48,Pune,Consumer,West
+CUST0540,Customer_540,Male,42,Delhi,Consumer,North
+CUST0541,Customer_541,Female,40,Kolkata,Home Office,East
+CUST0542,Customer_542,Female,41,Mumbai,Consumer,West
+CUST0543,Customer_543,Male,55,Pune,Consumer,West
+CUST0544,Customer_544,Female,45,Kolkata,Consumer,East
+CUST0545,Customer_545,Female,38,Chennai,Consumer,South
+CUST0546,Customer_546,Male,60,Ahmedabad,Consumer,West
+CUST0547,Customer_547,Male,35,Delhi,Consumer,North
+CUST0548,Customer_548,Female,53,Chennai,Consumer,South
+CUST0549,Customer_549,Male,52,Pune,Consumer,West
+CUST0550,Customer_550,Female,62,Pune,Consumer,West
+CUST0551,Customer_551,Male,26,Delhi,Home Office,North
+CUST0552,Customer_552,Female,55,Chennai,Consumer,South
+CUST0553,Customer_553,Female,47,Bangalore,Consumer,South
+CUST0554,Customer_554,Female,61,Chennai,Corporate,South
+CUST0555,Customer_555,Female,51,Pune,Consumer,West
+CUST0556,Customer_556,Male,49,Chennai,Consumer,South
+CUST0557,Customer_557,Male,20,Ahmedabad,Corporate,West
+CUST0558,Customer_558,Male,20,Kolkata,Consumer,East
+CUST0559,Customer_559,Female,45,Mumbai,Home Office,West
+CUST0560,Customer_560,Female,61,Ahmedabad,Consumer,West
+CUST0561,Customer_561,Female,32,Bangalore,Consumer,South
+CUST0562,Customer_562,Male,58,Hyderabad,Consumer,South
+CUST0563,Customer_563,Male,40,Kolkata,Consumer,East
+CUST0564,Customer_564,Male,57,Mumbai,Corporate,West
+CUST0565,Customer_565,Male,28,Hyderabad,Corporate,South
+CUST0566,Customer_566,Female,49,Delhi,Corporate,North
+CUST0567,Customer_567,Male,53,Hyderabad,Home Office,South
+CUST0568,Customer_568,Male,50,Kolkata,Corporate,East
+CUST0569,Customer_569,Female,41,Chennai,Consumer,South
+CUST0570,Customer_570,Male,56,Kolkata,Consumer,East
+CUST0571,Customer_571,Male,51,Ahmedabad,Consumer,West
+CUST0572,Customer_572,Female,45,Hyderabad,Consumer,South
+CUST0573,Customer_573,Male,54,Pune,Corporate,West
+CUST0574,Customer_574,Female,24,Mumbai,Consumer,West
+CUST0575,Customer_575,Female,21,Mumbai,Consumer,West
+CUST0576,Customer_576,Female,54,Hyderabad,Consumer,South
+CUST0577,Customer_577,Male,18,Mumbai,Consumer,West
+CUST0578,Customer_578,Female,18,Pune,Consumer,West
+CUST0579,Customer_579,Male,64,Kolkata,Consumer,East
+CUST0580,Customer_580,Male,37,Mumbai,Consumer,West
+CUST0581,Customer_581,Male,36,Hyderabad,Consumer,South
+CUST0582,Customer_582,Female,46,Bangalore,Corporate,South
+CUST0583,Customer_583,Male,27,Bangalore,Consumer,South
+CUST0584,Customer_584,Male,35,Delhi,Consumer,North
+CUST0585,Customer_585,Female,45,Ahmedabad,Consumer,West
+CUST0586,Customer_586,Male,52,Mumbai,Consumer,West
+CUST0587,Customer_587,Male,60,Ahmedabad,Consumer,West
+CUST0588,Customer_588,Male,64,Kolkata,Consumer,East
+CUST0589,Customer_589,Male,48,Hyderabad,Consumer,South
+CUST0590,Customer_590,Male,44,Mumbai,Consumer,West
+CUST0591,Customer_591,Male,28,Chennai,Consumer,South
+CUST0592,Customer_592,Female,55,Pune,Consumer,West
+CUST0593,Customer_593,Male,22,Mumbai,Corporate,West
+CUST0594,Customer_594,Male,25,Mumbai,Consumer,West
+CUST0595,Customer_595,Female,51,Ahmedabad,Home Office,West
+CUST0596,Customer_596,Male,29,Ahmedabad,Consumer,West
+CUST0597,Customer_597,Female,55,Bangalore,Consumer,South
+CUST0598,Customer_598,Male,18,Pune,Corporate,West
+CUST0599,Customer_599,Male,48,Hyderabad,Corporate,South
+CUST0600,Customer_600,Male,21,Mumbai,Consumer,West
+CUST0601,Customer_601,Male,62,Bangalore,Consumer,South
+CUST0602,Customer_602,Male,22,Ahmedabad,Consumer,West
+CUST0603,Customer_603,Male,47,Delhi,Consumer,North
+CUST0604,Customer_604,Male,41,Pune,Consumer,West
+CUST0605,Customer_605,Male,20,Bangalore,Consumer,South
+CUST0606,Customer_606,Male,28,Bangalore,Consumer,South
+CUST0607,Customer_607,Male,62,Kolkata,Consumer,East
+CUST0608,Customer_608,Male,21,Bangalore,Corporate,South
+CUST0609,Customer_609,Male,43,Kolkata,Home Office,East
+CUST0610,Customer_610,Female,44,Mumbai,Home Office,West
+CUST0611,Customer_611,Male,63,Mumbai,Consumer,West
+CUST0612,Customer_612,Female,60,Ahmedabad,Corporate,West
+CUST0613,Customer_613,Female,44,Delhi,Home Office,North
+CUST0614,Customer_614,Male,59,Chennai,Consumer,South
+CUST0615,Customer_615,Female,23,Chennai,Consumer,South
+CUST0616,Customer_616,Female,32,Chennai,Home Office,South
+CUST0617,Customer_617,Male,47,Ahmedabad,Consumer,West
+CUST0618,Customer_618,Male,59,Kolkata,Consumer,East
+CUST0619,Customer_619,Female,54,Ahmedabad,Consumer,West
+CUST0620,Customer_620,Female,54,Pune,Consumer,West
+CUST0621,Customer_621,Male,59,Pune,Corporate,West
+CUST0622,Customer_622,Male,54,Delhi,Consumer,North
+CUST0623,Customer_623,Male,52,Pune,Consumer,West
+CUST0624,Customer_624,Male,40,Chennai,Consumer,South
+CUST0625,Customer_625,Female,23,Chennai,Consumer,South
+CUST0626,Customer_626,Male,21,Ahmedabad,Consumer,West
+CUST0627,Customer_627,Male,35,Bangalore,Consumer,South
+CUST0628,Customer_628,Female,26,Pune,Home Office,West
+CUST0629,Customer_629,Male,46,Ahmedabad,Consumer,West
+CUST0630,Customer_630,Male,30,Mumbai,Consumer,West
+CUST0631,Customer_631,Female,64,Mumbai,Corporate,West
+CUST0632,Customer_632,Female,34,Bangalore,Consumer,South
+CUST0633,Customer_633,Male,62,Bangalore,Corporate,South
+CUST0634,Customer_634,Male,49,Bangalore,Corporate,South
+CUST0635,Customer_635,Male,39,Ahmedabad,Corporate,West
+CUST0636,Customer_636,Male,21,Mumbai,Consumer,West
+CUST0637,Customer_637,Male,22,Chennai,Consumer,South
+CUST0638,Customer_638,Male,54,Bangalore,Consumer,South
+CUST0639,Customer_639,Male,58,Delhi,Consumer,North
+CUST0640,Customer_640,Male,30,Kolkata,Corporate,East
+CUST0641,Customer_641,Male,51,Ahmedabad,Corporate,West
+CUST0642,Customer_642,Male,62,Bangalore,Corporate,South
+CUST0643,Customer_643,Male,39,Kolkata,Home Office,East
+CUST0644,Customer_644,Male,40,Hyderabad,Corporate,South
+CUST0645,Customer_645,Male,20,Bangalore,Consumer,South
+CUST0646,Customer_646,Female,59,Mumbai,Consumer,West
+CUST0647,Customer_647,Female,51,Pune,Corporate,West
+CUST0648,Customer_648,Female,49,Bangalore,Consumer,South
+CUST0649,Customer_649,Female,62,Ahmedabad,Consumer,West
+CUST0650,Customer_650,Male,38,Pune,Consumer,West
+CUST0651,Customer_651,Male,63,Hyderabad,Corporate,South
+CUST0652,Customer_652,Male,61,Delhi,Consumer,North
+CUST0653,Customer_653,Female,38,Pune,Corporate,West
+CUST0654,Customer_654,Female,61,Kolkata,Corporate,East
+CUST0655,Customer_655,Male,28,Chennai,Consumer,South
+CUST0656,Customer_656,Male,56,Bangalore,Consumer,South
+CUST0657,Customer_657,Male,21,Hyderabad,Consumer,South
+CUST0658,Customer_658,Male,18,Hyderabad,Corporate,South
+CUST0659,Customer_659,Female,45,Pune,Corporate,West
+CUST0660,Customer_660,Female,41,Delhi,Home Office,North
+CUST0661,Customer_661,Male,52,Mumbai,Consumer,West
+CUST0662,Customer_662,Female,30,Bangalore,Consumer,South
+CUST0663,Customer_663,Female,64,Hyderabad,Consumer,South
+CUST0664,Customer_664,Male,51,Delhi,Corporate,North
+CUST0665,Customer_665,Male,28,Chennai,Consumer,South
+CUST0666,Customer_666,Male,53,Hyderabad,Consumer,South
+CUST0667,Customer_667,Male,34,Delhi,Consumer,North
+CUST0668,Customer_668,Male,52,Ahmedabad,Consumer,West
+CUST0669,Customer_669,Male,35,Mumbai,Consumer,West
+CUST0670,Customer_670,Male,57,Mumbai,Consumer,West
+CUST0671,Customer_671,Male,39,Hyderabad,Consumer,South
+CUST0672,Customer_672,Female,41,Kolkata,Consumer,East
+CUST0673,Customer_673,Male,36,Hyderabad,Corporate,South
+CUST0674,Customer_674,Male,54,Pune,Corporate,West
+CUST0675,Customer_675,Male,56,Bangalore,Consumer,South
+CUST0676,Customer_676,Female,38,Delhi,Corporate,North
+CUST0677,Customer_677,Male,25,Hyderabad,Consumer,South
+CUST0678,Customer_678,Male,45,Bangalore,Consumer,South
+CUST0679,Customer_679,Female,22,Pune,Home Office,West
+CUST0680,Customer_680,Female,34,Ahmedabad,Corporate,West
+CUST0681,Customer_681,Female,54,Ahmedabad,Corporate,West
+CUST0682,Customer_682,Male,53,Bangalore,Consumer,South
+CUST0683,Customer_683,Male,36,Hyderabad,Consumer,South
+CUST0684,Customer_684,Female,44,Mumbai,Home Office,West
+CUST0685,Customer_685,Female,51,Delhi,Consumer,North
+CUST0686,Customer_686,Female,28,Delhi,Consumer,North
+CUST0687,Customer_687,Female,62,Ahmedabad,Corporate,West
+CUST0688,Customer_688,Male,64,Ahmedabad,Corporate,West
+CUST0689,Customer_689,Female,29,Mumbai,Home Office,West
+CUST0690,Customer_690,Male,38,Kolkata,Consumer,East
+CUST0691,Customer_691,Male,28,Hyderabad,Home Office,South
+CUST0692,Customer_692,Male,56,Ahmedabad,Consumer,West
+CUST0693,Customer_693,Male,45,Ahmedabad,Consumer,West
+CUST0694,Customer_694,Male,22,Ahmedabad,Consumer,West
+CUST0695,Customer_695,Male,34,Delhi,Consumer,North
+CUST0696,Customer_696,Female,37,Hyderabad,Consumer,South
+CUST0697,Customer_697,Male,58,Pune,Corporate,West
+CUST0698,Customer_698,Female,63,Hyderabad,Consumer,South
+CUST0699,Customer_699,Male,29,Bangalore,Consumer,South
+CUST0700,Customer_700,Male,23,Mumbai,Consumer,West
+CUST0701,Customer_701,Male,34,Kolkata,Consumer,East
+CUST0702,Customer_702,Male,36,Ahmedabad,Consumer,West
+CUST0703,Customer_703,Male,43,Ahmedabad,Corporate,West
+CUST0704,Customer_704,Male,61,Hyderabad,Corporate,South
+CUST0705,Customer_705,Male,61,Kolkata,Consumer,East
+CUST0706,Customer_706,Female,49,Ahmedabad,Corporate,West
+CUST0707,Customer_707,Male,23,Kolkata,Consumer,East
+CUST0708,Customer_708,Female,53,Pune,Consumer,West
+CUST0709,Customer_709,Male,55,Chennai,Corporate,South
+CUST0710,Customer_710,Female,28,Mumbai,Consumer,West
+CUST0711,Customer_711,Female,50,Kolkata,Home Office,East
+CUST0712,Customer_712,Female,41,Delhi,Consumer,North
+CUST0713,Customer_713,Male,40,Bangalore,Corporate,South
+CUST0714,Customer_714,Male,32,Delhi,Consumer,North
+CUST0715,Customer_715,Male,44,Ahmedabad,Consumer,West
+CUST0716,Customer_716,Female,28,Pune,Consumer,West
+CUST0717,Customer_717,Female,34,Pune,Corporate,West
+CUST0718,Customer_718,Female,31,Delhi,Consumer,North
+CUST0719,Customer_719,Male,44,Mumbai,Home Office,West
+CUST0720,Customer_720,Female,35,Delhi,Consumer,North
+CUST0721,Customer_721,Female,45,Hyderabad,Consumer,South
+CUST0722,Customer_722,Male,64,Ahmedabad,Consumer,West
+CUST0723,Customer_723,Male,64,Ahmedabad,Consumer,West
+CUST0724,Customer_724,Female,21,Delhi,Home Office,North
+CUST0725,Customer_725,Female,24,Bangalore,Consumer,South
+CUST0726,Customer_726,Female,62,Bangalore,Corporate,South
+CUST0727,Customer_727,Male,52,Ahmedabad,Consumer,West
+CUST0728,Customer_728,Female,26,Chennai,Consumer,South
+CUST0729,Customer_729,Male,25,Bangalore,Home Office,South
+CUST0730,Customer_730,Male,62,Delhi,Consumer,North
+CUST0731,Customer_731,Male,34,Bangalore,Consumer,South
+CUST0732,Customer_732,Female,34,Ahmedabad,Home Office,West
+CUST0733,Customer_733,Female,50,Mumbai,Home Office,West
+CUST0734,Customer_734,Male,49,Kolkata,Consumer,East
+CUST0735,Customer_735,Male,25,Bangalore,Consumer,South
+CUST0736,Customer_736,Female,36,Hyderabad,Consumer,South
+CUST0737,Customer_737,Male,55,Mumbai,Consumer,West
+CUST0738,Customer_738,Female,20,Chennai,Corporate,South
+CUST0739,Customer_739,Male,22,Hyderabad,Corporate,South
+CUST0740,Customer_740,Male,30,Delhi,Consumer,North
+CUST0741,Customer_741,Male,64,Kolkata,Consumer,East
+CUST0742,Customer_742,Male,63,Delhi,Consumer,North
+CUST0743,Customer_743,Female,48,Kolkata,Consumer,East
+CUST0744,Customer_744,Male,33,Kolkata,Consumer,East
+CUST0745,Customer_745,Male,49,Delhi,Consumer,North
+CUST0746,Customer_746,Female,39,Hyderabad,Consumer,South
+CUST0747,Customer_747,Male,46,Hyderabad,Consumer,South
+CUST0748,Customer_748,Male,39,Kolkata,Consumer,East
+CUST0749,Customer_749,Female,60,Hyderabad,Consumer,South
+CUST0750,Customer_750,Female,20,Kolkata,Consumer,East
+CUST0751,Customer_751,Male,27,Ahmedabad,Consumer,West
+CUST0752,Customer_752,Female,59,Kolkata,Consumer,East
+CUST0753,Customer_753,Female,38,Ahmedabad,Consumer,West
+CUST0754,Customer_754,Male,33,Mumbai,Consumer,West
+CUST0755,Customer_755,Male,29,Pune,Corporate,West
+CUST0756,Customer_756,Female,19,Mumbai,Home Office,West
+CUST0757,Customer_757,Female,58,Delhi,Corporate,North
+CUST0758,Customer_758,Male,41,Pune,Consumer,West
+CUST0759,Customer_759,Female,52,Bangalore,Home Office,South
+CUST0760,Customer_760,Female,47,Delhi,Corporate,North
+CUST0761,Customer_761,Male,47,Chennai,Consumer,South
+CUST0762,Customer_762,Male,64,Mumbai,Consumer,West
+CUST0763,Customer_763,Male,52,Hyderabad,Home Office,South
+CUST0764,Customer_764,Female,36,Mumbai,Consumer,West
+CUST0765,Customer_765,Male,25,Hyderabad,Consumer,South
+CUST0766,Customer_766,Female,43,Pune,Corporate,West
+CUST0767,Customer_767,Female,57,Chennai,Corporate,South
+CUST0768,Customer_768,Female,24,Pune,Consumer,West
+CUST0769,Customer_769,Male,47,Chennai,Consumer,South
+CUST0770,Customer_770,Female,24,Mumbai,Consumer,West
+CUST0771,Customer_771,Male,20,Hyderabad,Corporate,South
+CUST0772,Customer_772,Female,18,Pune,Consumer,West
+CUST0773,Customer_773,Male,53,Chennai,Consumer,South
+CUST0774,Customer_774,Male,42,Kolkata,Corporate,East
+CUST0775,Customer_775,Female,54,Delhi,Consumer,North
+CUST0776,Customer_776,Male,18,Delhi,Corporate,North
+CUST0777,Customer_777,Male,32,Pune,Consumer,West
+CUST0778,Customer_778,Female,54,Hyderabad,Consumer,South
+CUST0779,Customer_779,Female,30,Kolkata,Consumer,East
+CUST0780,Customer_780,Female,57,Pune,Consumer,West
+CUST0781,Customer_781,Female,25,Mumbai,Consumer,West
+CUST0782,Customer_782,Male,22,Chennai,Consumer,South
+CUST0783,Customer_783,Male,26,Ahmedabad,Corporate,West
+CUST0784,Customer_784,Male,18,Mumbai,Home Office,West
+CUST0785,Customer_785,Male,53,Delhi,Home Office,North
+CUST0786,Customer_786,Female,52,Chennai,Consumer,South
+CUST0787,Customer_787,Female,19,Pune,Consumer,West
+CUST0788,Customer_788,Male,57,Mumbai,Consumer,West
+CUST0789,Customer_789,Male,40,Bangalore,Corporate,South
+CUST0790,Customer_790,Female,26,Ahmedabad,Consumer,West
+CUST0791,Customer_791,Male,51,Hyderabad,Home Office,South
+CUST0792,Customer_792,Female,63,Kolkata,Consumer,East
+CUST0793,Customer_793,Male,31,Kolkata,Home Office,East
+CUST0794,Customer_794,Female,21,Hyderabad,Corporate,South
+CUST0795,Customer_795,Male,47,Bangalore,Corporate,South
+CUST0796,Customer_796,Female,48,Delhi,Consumer,North
+CUST0797,Customer_797,Female,55,Chennai,Consumer,South
+CUST0798,Customer_798,Female,28,Hyderabad,Consumer,South
+CUST0799,Customer_799,Female,52,Bangalore,Consumer,South
+CUST0800,Customer_800,Female,25,Pune,Consumer,West
+CUST0801,Customer_801,Female,20,Ahmedabad,Consumer,West
+CUST0802,Customer_802,Male,31,Kolkata,Consumer,East
+CUST0803,Customer_803,Female,30,Ahmedabad,Consumer,West
+CUST0804,Customer_804,Female,62,Bangalore,Consumer,South
+CUST0805,Customer_805,Male,49,Ahmedabad,Consumer,West
+CUST0806,Customer_806,Female,51,Delhi,Home Office,North
+CUST0807,Customer_807,Female,62,Delhi,Consumer,North
+CUST0808,Customer_808,Female,36,Mumbai,Consumer,West
+CUST0809,Customer_809,Male,55,Hyderabad,Consumer,South
+CUST0810,Customer_810,Male,33,Mumbai,Corporate,West
+CUST0811,Customer_811,Female,19,Ahmedabad,Consumer,West
+CUST0812,Customer_812,Female,57,Kolkata,Consumer,East
+CUST0813,Customer_813,Male,34,Bangalore,Consumer,South
+CUST0814,Customer_814,Female,51,Chennai,Consumer,South
+CUST0815,Customer_815,Female,59,Ahmedabad,Consumer,West
+CUST0816,Customer_816,Male,33,Chennai,Home Office,South
+CUST0817,Customer_817,Female,55,Delhi,Home Office,North
+CUST0818,Customer_818,Male,19,Chennai,Consumer,South
+CUST0819,Customer_819,Male,19,Chennai,Consumer,South
+CUST0820,Customer_820,Male,43,Kolkata,Consumer,East
+CUST0821,Customer_821,Female,30,Chennai,Consumer,South
+CUST0822,Customer_822,Male,64,Ahmedabad,Consumer,West
+CUST0823,Customer_823,Male,48,Bangalore,Consumer,South
+CUST0824,Customer_824,Male,51,Chennai,Home Office,South
+CUST0825,Customer_825,Male,56,Pune,Home Office,West
+CUST0826,Customer_826,Female,20,Chennai,Consumer,South
+CUST0827,Customer_827,Male,25,Chennai,Consumer,South
+CUST0828,Customer_828,Male,40,Mumbai,Consumer,West
+CUST0829,Customer_829,Female,31,Bangalore,Consumer,South
+CUST0830,Customer_830,Male,44,Ahmedabad,Consumer,West
+CUST0831,Customer_831,Male,46,Delhi,Consumer,North
+CUST0832,Customer_832,Male,56,Mumbai,Home Office,West
+CUST0833,Customer_833,Male,56,Ahmedabad,Corporate,West
+CUST0834,Customer_834,Male,18,Hyderabad,Consumer,South
+CUST0835,Customer_835,Male,34,Bangalore,Corporate,South
+CUST0836,Customer_836,Male,58,Pune,Consumer,West
+CUST0837,Customer_837,Female,47,Bangalore,Consumer,South
+CUST0838,Customer_838,Male,30,Hyderabad,Consumer,South
+CUST0839,Customer_839,Female,38,Hyderabad,Consumer,South
+CUST0840,Customer_840,Female,36,Hyderabad,Consumer,South
+CUST0841,Customer_841,Male,36,Kolkata,Consumer,East
+CUST0842,Customer_842,Female,42,Delhi,Home Office,North
+CUST0843,Customer_843,Male,39,Chennai,Consumer,South
+CUST0844,Customer_844,Female,48,Bangalore,Consumer,South
+CUST0845,Customer_845,Male,34,Ahmedabad,Consumer,West
+CUST0846,Customer_846,Male,40,Kolkata,Corporate,East
+CUST0847,Customer_847,Male,49,Ahmedabad,Consumer,West
+CUST0848,Customer_848,Female,27,Chennai,Home Office,South
+CUST0849,Customer_849,Male,27,Chennai,Home Office,South
+CUST0850,Customer_850,Female,53,Pune,Consumer,West
+CUST0851,Customer_851,Male,25,Hyderabad,Corporate,South
+CUST0852,Customer_852,Female,37,Delhi,Consumer,North
+CUST0853,Customer_853,Male,49,Pune,Consumer,West
+CUST0854,Customer_854,Female,31,Mumbai,Corporate,West
+CUST0855,Customer_855,Male,45,Kolkata,Consumer,East
+CUST0856,Customer_856,Male,63,Kolkata,Consumer,East
+CUST0857,Customer_857,Male,41,Delhi,Consumer,North
+CUST0858,Customer_858,Male,32,Chennai,Consumer,South
+CUST0859,Customer_859,Female,39,Ahmedabad,Home Office,West
+CUST0860,Customer_860,Male,47,Kolkata,Consumer,East
+CUST0861,Customer_861,Female,21,Delhi,Corporate,North
+CUST0862,Customer_862,Male,30,Kolkata,Consumer,East
+CUST0863,Customer_863,Male,40,Kolkata,Corporate,East
+CUST0864,Customer_864,Male,25,Hyderabad,Consumer,South
+CUST0865,Customer_865,Male,35,Mumbai,Consumer,West
+CUST0866,Customer_866,Female,29,Hyderabad,Home Office,South
+CUST0867,Customer_867,Male,48,Mumbai,Consumer,West
+CUST0868,Customer_868,Male,31,Kolkata,Consumer,East
+CUST0869,Customer_869,Female,51,Pune,Consumer,West
+CUST0870,Customer_870,Female,35,Ahmedabad,Corporate,West
+CUST0871,Customer_871,Male,51,Chennai,Consumer,South
+CUST0872,Customer_872,Male,28,Kolkata,Home Office,East
+CUST0873,Customer_873,Female,58,Mumbai,Consumer,West
+CUST0874,Customer_874,Male,29,Mumbai,Consumer,West
+CUST0875,Customer_875,Male,32,Mumbai,Corporate,West
+CUST0876,Customer_876,Male,48,Kolkata,Corporate,East
+CUST0877,Customer_877,Female,46,Delhi,Home Office,North
+CUST0878,Customer_878,Female,43,Pune,Home Office,West
+CUST0879,Customer_879,Male,35,Delhi,Consumer,North
+CUST0880,Customer_880,Male,49,Chennai,Consumer,South
+CUST0881,Customer_881,Male,39,Kolkata,Consumer,East
+CUST0882,Customer_882,Female,55,Mumbai,Corporate,West
+CUST0883,Customer_883,Male,34,Pune,Home Office,West
+CUST0884,Customer_884,Male,40,Pune,Consumer,West
+CUST0885,Customer_885,Female,41,Bangalore,Consumer,South
+CUST0886,Customer_886,Male,25,Chennai,Consumer,South
+CUST0887,Customer_887,Female,58,Ahmedabad,Corporate,West
+CUST0888,Customer_888,Male,23,Ahmedabad,Consumer,West
+CUST0889,Customer_889,Male,22,Pune,Consumer,West
+CUST0890,Customer_890,Male,61,Kolkata,Consumer,East
+CUST0891,Customer_891,Female,46,Mumbai,Corporate,West
+CUST0892,Customer_892,Female,45,Mumbai,Corporate,West
+CUST0893,Customer_893,Female,28,Pune,Consumer,West
+CUST0894,Customer_894,Male,18,Delhi,Consumer,North
+CUST0895,Customer_895,Female,60,Chennai,Consumer,South
+CUST0896,Customer_896,Male,36,Mumbai,Corporate,West
+CUST0897,Customer_897,Male,26,Pune,Home Office,West
+CUST0898,Customer_898,Female,44,Mumbai,Consumer,West
+CUST0899,Customer_899,Male,51,Ahmedabad,Consumer,West
+CUST0900,Customer_900,Male,61,Pune,Consumer,West
+CUST0901,Customer_901,Male,21,Chennai,Consumer,South
+CUST0902,Customer_902,Male,53,Pune,Corporate,West
+CUST0903,Customer_903,Male,35,Bangalore,Consumer,South
+CUST0904,Customer_904,Female,32,Pune,Consumer,West
+CUST0905,Customer_905,Male,30,Pune,Consumer,West
+CUST0906,Customer_906,Female,36,Kolkata,Consumer,East
+CUST0907,Customer_907,Female,23,Ahmedabad,Consumer,West
+CUST0908,Customer_908,Male,29,Chennai,Consumer,South
+CUST0909,Customer_909,Male,54,Kolkata,Consumer,East
+CUST0910,Customer_910,Male,34,Pune,Corporate,West
+CUST0911,Customer_911,Female,40,Chennai,Consumer,South
+CUST0912,Customer_912,Male,43,Bangalore,Consumer,South
+CUST0913,Customer_913,Female,46,Chennai,Home Office,South
+CUST0914,Customer_914,Male,50,Mumbai,Consumer,West
+CUST0915,Customer_915,Female,44,Kolkata,Corporate,East
+CUST0916,Customer_916,Male,42,Chennai,Consumer,South
+CUST0917,Customer_917,Male,27,Ahmedabad,Consumer,West
+CUST0918,Customer_918,Female,64,Bangalore,Consumer,South
+CUST0919,Customer_919,Female,40,Hyderabad,Consumer,South
+CUST0920,Customer_920,Male,38,Pune,Consumer,West
+CUST0921,Customer_921,Female,38,Chennai,Home Office,South
+CUST0922,Customer_922,Male,60,Pune,Consumer,West
+CUST0923,Customer_923,Female,30,Delhi,Consumer,North
+CUST0924,Customer_924,Female,54,Mumbai,Consumer,West
+CUST0925,Customer_925,Male,50,Kolkata,Consumer,East
+CUST0926,Customer_926,Male,41,Mumbai,Consumer,West
+CUST0927,Customer_927,Male,61,Delhi,Consumer,North
+CUST0928,Customer_928,Male,28,Delhi,Corporate,North
+CUST0929,Customer_929,Female,34,Kolkata,Home Office,East
+CUST0930,Customer_930,Male,21,Chennai,Consumer,South
+CUST0931,Customer_931,Male,64,Delhi,Consumer,North
+CUST0932,Customer_932,Female,42,Hyderabad,Home Office,South
+CUST0933,Customer_933,Female,47,Pune,Corporate,West
+CUST0934,Customer_934,Male,26,Pune,Consumer,West
+CUST0935,Customer_935,Male,38,Bangalore,Home Office,South
+CUST0936,Customer_936,Male,37,Ahmedabad,Consumer,West
+CUST0937,Customer_937,Male,36,Delhi,Home Office,North
+CUST0938,Customer_938,Female,36,Delhi,Consumer,North
+CUST0939,Customer_939,Male,29,Hyderabad,Consumer,South
+CUST0940,Customer_940,Female,54,Mumbai,Home Office,West
+CUST0941,Customer_941,Male,59,Mumbai,Consumer,West
+CUST0942,Customer_942,Female,34,Pune,Consumer,West
+CUST0943,Customer_943,Female,54,Pune,Consumer,West
+CUST0944,Customer_944,Female,56,Chennai,Home Office,South
+CUST0945,Customer_945,Male,45,Kolkata,Corporate,East
+CUST0946,Customer_946,Male,58,Ahmedabad,Corporate,West
+CUST0947,Customer_947,Male,52,Hyderabad,Consumer,South
+CUST0948,Customer_948,Female,64,Kolkata,Corporate,East
+CUST0949,Customer_949,Female,35,Kolkata,Consumer,East
+CUST0950,Customer_950,Female,31,Bangalore,Consumer,South
+CUST0951,Customer_951,Female,52,Kolkata,Corporate,East
+CUST0952,Customer_952,Female,61,Bangalore,Consumer,South
+CUST0953,Customer_953,Male,58,Kolkata,Consumer,East
+CUST0954,Customer_954,Female,24,Hyderabad,Consumer,South
+CUST0955,Customer_955,Male,58,Bangalore,Consumer,South
+CUST0956,Customer_956,Male,30,Mumbai,Home Office,West
+CUST0957,Customer_957,Male,35,Bangalore,Consumer,South
+CUST0958,Customer_958,Male,54,Bangalore,Corporate,South
+CUST0959,Customer_959,Male,30,Hyderabad,Consumer,South
+CUST0960,Customer_960,Female,53,Hyderabad,Consumer,South
+CUST0961,Customer_961,Male,48,Bangalore,Consumer,South
+CUST0962,Customer_962,Female,19,Ahmedabad,Corporate,West
+CUST0963,Customer_963,Male,33,Delhi,Consumer,North
+CUST0964,Customer_964,Male,26,Ahmedabad,Home Office,West
+CUST0965,Customer_965,Male,26,Hyderabad,Corporate,South
+CUST0966,Customer_966,Male,55,Ahmedabad,Consumer,West
+CUST0967,Customer_967,Female,28,Ahmedabad,Consumer,West
+CUST0968,Customer_968,Male,39,Chennai,Home Office,South
+CUST0969,Customer_969,Female,50,Chennai,Corporate,South
+CUST0970,Customer_970,Male,53,Mumbai,Consumer,West
+CUST0971,Customer_971,Female,62,Kolkata,Consumer,East
+CUST0972,Customer_972,Female,40,Bangalore,Corporate,South
+CUST0973,Customer_973,Female,62,Delhi,Corporate,North
+CUST0974,Customer_974,Male,62,Mumbai,Consumer,West
+CUST0975,Customer_975,Male,51,Bangalore,Home Office,South
+CUST0976,Customer_976,Male,26,Ahmedabad,Home Office,West
+CUST0977,Customer_977,Female,41,Hyderabad,Consumer,South
+CUST0978,Customer_978,Male,25,Chennai,Home Office,South
+CUST0979,Customer_979,Male,24,Pune,Consumer,West
+CUST0980,Customer_980,Female,53,Delhi,Consumer,North
+CUST0981,Customer_981,Male,35,Ahmedabad,Consumer,West
+CUST0982,Customer_982,Female,20,Pune,Consumer,West
+CUST0983,Customer_983,Male,45,Chennai,Corporate,South
+CUST0984,Customer_984,Male,23,Ahmedabad,Consumer,West
+CUST0985,Customer_985,Female,61,Kolkata,Consumer,East
+CUST0986,Customer_986,Male,61,Kolkata,Consumer,East
+CUST0987,Customer_987,Female,38,Pune,Consumer,West
+CUST0988,Customer_988,Male,45,Hyderabad,Consumer,South
+CUST0989,Customer_989,Male,57,Ahmedabad,Corporate,West
+CUST0990,Customer_990,Female,18,Bangalore,Consumer,South
+CUST0991,Customer_991,Female,53,Ahmedabad,Home Office,West
+CUST0992,Customer_992,Female,38,Hyderabad,Corporate,South
+CUST0993,Customer_993,Male,60,Ahmedabad,Consumer,West
+CUST0994,Customer_994,Female,52,Pune,Home Office,West
+CUST0995,Customer_995,Male,30,Hyderabad,Consumer,South
+CUST0996,Customer_996,Male,27,Chennai,Consumer,South
+CUST0997,Customer_997,Female,61,Delhi,Consumer,North
+CUST0998,Customer_998,Male,64,Hyderabad,Consumer,South
+CUST0999,Customer_999,Female,27,Ahmedabad,Consumer,West
+CUST1000,Customer_1000,Male,63,Chennai,Corporate,South
+CUST1001,Customer_1001,Male,30,Delhi,Consumer,North
+CUST1002,Customer_1002,Male,54,Kolkata,Corporate,East
+CUST1003,Customer_1003,Female,55,Bangalore,Consumer,South
+CUST1004,Customer_1004,Female,41,Pune,Corporate,West
+CUST1005,Customer_1005,Female,19,Ahmedabad,Consumer,West
+CUST1006,Customer_1006,Female,39,Ahmedabad,Consumer,West
+CUST1007,Customer_1007,Female,34,Kolkata,Consumer,East
+CUST1008,Customer_1008,Female,53,Bangalore,Consumer,South
+CUST1009,Customer_1009,Male,31,Kolkata,Consumer,East
+CUST1010,Customer_1010,Male,27,Mumbai,Corporate,West
+CUST1011,Customer_1011,Male,52,Kolkata,Consumer,East
+CUST1012,Customer_1012,Female,42,Chennai,Corporate,South
+CUST1013,Customer_1013,Female,20,Delhi,Corporate,North
+CUST1014,Customer_1014,Male,64,Ahmedabad,Home Office,West
+CUST1015,Customer_1015,Female,55,Kolkata,Consumer,East
+CUST1016,Customer_1016,Female,34,Ahmedabad,Consumer,West
+CUST1017,Customer_1017,Male,29,Hyderabad,Home Office,South
+CUST1018,Customer_1018,Female,41,Bangalore,Corporate,South
+CUST1019,Customer_1019,Female,46,Kolkata,Consumer,East
+CUST1020,Customer_1020,Male,60,Delhi,Consumer,North
+CUST1021,Customer_1021,Female,42,Chennai,Consumer,South
+CUST1022,Customer_1022,Male,53,Mumbai,Consumer,West
+CUST1023,Customer_1023,Female,43,Ahmedabad,Corporate,West
+CUST1024,Customer_1024,Female,55,Bangalore,Consumer,South
+CUST1025,Customer_1025,Female,18,Pune,Consumer,West
+CUST1026,Customer_1026,Male,37,Delhi,Consumer,North
+CUST1027,Customer_1027,Female,45,Pune,Consumer,West
+CUST1028,Customer_1028,Female,33,Delhi,Corporate,North
+CUST1029,Customer_1029,Male,64,Delhi,Corporate,North
+CUST1030,Customer_1030,Female,34,Chennai,Consumer,South
+CUST1031,Customer_1031,Male,57,Chennai,Home Office,South
+CUST1032,Customer_1032,Female,45,Chennai,Consumer,South
+CUST1033,Customer_1033,Male,29,Kolkata,Consumer,East
+CUST1034,Customer_1034,Male,44,Hyderabad,Consumer,South
+CUST1035,Customer_1035,Male,59,Delhi,Consumer,North
+CUST1036,Customer_1036,Female,64,Bangalore,Consumer,South
+CUST1037,Customer_1037,Male,47,Pune,Consumer,West
+CUST1038,Customer_1038,Female,58,Chennai,Corporate,South
+CUST1039,Customer_1039,Male,51,Kolkata,Consumer,East
+CUST1040,Customer_1040,Male,54,Chennai,Corporate,South
+CUST1041,Customer_1041,Male,23,Pune,Consumer,West
+CUST1042,Customer_1042,Female,24,Pune,Home Office,West
+CUST1043,Customer_1043,Male,49,Ahmedabad,Corporate,West
+CUST1044,Customer_1044,Female,49,Delhi,Consumer,North
+CUST1045,Customer_1045,Female,42,Chennai,Corporate,South
+CUST1046,Customer_1046,Female,50,Pune,Consumer,West
+CUST1047,Customer_1047,Male,24,Hyderabad,Corporate,South
+CUST1048,Customer_1048,Male,29,Hyderabad,Consumer,South
+CUST1049,Customer_1049,Female,33,Chennai,Consumer,South
+CUST1050,Customer_1050,Male,33,Kolkata,Corporate,East
+CUST1051,Customer_1051,Female,60,Pune,Consumer,West
+CUST1052,Customer_1052,Male,53,Ahmedabad,Consumer,West
+CUST1053,Customer_1053,Female,30,Delhi,Corporate,North
+CUST1054,Customer_1054,Female,24,Delhi,Consumer,North
+CUST1055,Customer_1055,Female,53,Kolkata,Consumer,East
+CUST1056,Customer_1056,Male,64,Ahmedabad,Consumer,West
+CUST1057,Customer_1057,Female,26,Delhi,Consumer,North
+CUST1058,Customer_1058,Male,49,Ahmedabad,Home Office,West
+CUST1059,Customer_1059,Male,28,Mumbai,Consumer,West
+CUST1060,Customer_1060,Female,25,Chennai,Consumer,South
+CUST1061,Customer_1061,Female,50,Delhi,Corporate,North
+CUST1062,Customer_1062,Female,40,Hyderabad,Corporate,South
+CUST1063,Customer_1063,Female,42,Pune,Consumer,West
+CUST1064,Customer_1064,Male,25,Ahmedabad,Consumer,West
+CUST1065,Customer_1065,Male,62,Ahmedabad,Home Office,West
+CUST1066,Customer_1066,Female,39,Bangalore,Corporate,South
+CUST1067,Customer_1067,Male,21,Kolkata,Consumer,East
+CUST1068,Customer_1068,Male,57,Bangalore,Consumer,South
+CUST1069,Customer_1069,Male,20,Delhi,Consumer,North
+CUST1070,Customer_1070,Male,46,Bangalore,Consumer,South
+CUST1071,Customer_1071,Male,58,Bangalore,Consumer,South
+CUST1072,Customer_1072,Male,46,Mumbai,Home Office,West
+CUST1073,Customer_1073,Male,51,Ahmedabad,Consumer,West
+CUST1074,Customer_1074,Male,51,Hyderabad,Corporate,South
+CUST1075,Customer_1075,Female,45,Kolkata,Consumer,East
+CUST1076,Customer_1076,Male,30,Hyderabad,Corporate,South
+CUST1077,Customer_1077,Male,32,Mumbai,Corporate,West
+CUST1078,Customer_1078,Female,40,Mumbai,Consumer,West
+CUST1079,Customer_1079,Male,61,Bangalore,Consumer,South
+CUST1080,Customer_1080,Female,43,Chennai,Consumer,South
+CUST1081,Customer_1081,Female,21,Ahmedabad,Home Office,West
+CUST1082,Customer_1082,Male,43,Pune,Home Office,West
+CUST1083,Customer_1083,Male,57,Ahmedabad,Consumer,West
+CUST1084,Customer_1084,Female,26,Pune,Consumer,West
+CUST1085,Customer_1085,Female,22,Bangalore,Consumer,South
+CUST1086,Customer_1086,Male,49,Pune,Corporate,West
+CUST1087,Customer_1087,Female,37,Mumbai,Consumer,West
+CUST1088,Customer_1088,Male,28,Hyderabad,Consumer,South
+CUST1089,Customer_1089,Female,32,Pune,Consumer,West
+CUST1090,Customer_1090,Male,49,Ahmedabad,Consumer,West
+CUST1091,Customer_1091,Female,45,Kolkata,Corporate,East
+CUST1092,Customer_1092,Female,39,Bangalore,Consumer,South
+CUST1093,Customer_1093,Female,58,Chennai,Consumer,South
+CUST1094,Customer_1094,Male,34,Bangalore,Consumer,South
+CUST1095,Customer_1095,Male,43,Delhi,Consumer,North
+CUST1096,Customer_1096,Male,61,Bangalore,Consumer,South
+CUST1097,Customer_1097,Male,24,Mumbai,Home Office,West
+CUST1098,Customer_1098,Male,59,Hyderabad,Corporate,South
+CUST1099,Customer_1099,Female,43,Hyderabad,Consumer,South
+CUST1100,Customer_1100,Male,42,Kolkata,Consumer,East
+CUST1101,Customer_1101,Male,27,Pune,Home Office,West
+CUST1102,Customer_1102,Female,62,Mumbai,Consumer,West
+CUST1103,Customer_1103,Female,36,Delhi,Consumer,North
+CUST1104,Customer_1104,Female,28,Mumbai,Home Office,West
+CUST1105,Customer_1105,Female,30,Bangalore,Corporate,South
+CUST1106,Customer_1106,Male,25,Mumbai,Home Office,West
+CUST1107,Customer_1107,Male,57,Mumbai,Home Office,West
+CUST1108,Customer_1108,Female,21,Kolkata,Home Office,East
+CUST1109,Customer_1109,Female,64,Delhi,Consumer,North
+CUST1110,Customer_1110,Male,48,Bangalore,Consumer,South
+CUST1111,Customer_1111,Female,45,Chennai,Consumer,South
+CUST1112,Customer_1112,Male,28,Kolkata,Consumer,East
+CUST1113,Customer_1113,Male,60,Chennai,Consumer,South
+CUST1114,Customer_1114,Male,18,Kolkata,Consumer,East
+CUST1115,Customer_1115,Female,64,Hyderabad,Consumer,South
+CUST1116,Customer_1116,Female,55,Ahmedabad,Consumer,West
+CUST1117,Customer_1117,Male,41,Kolkata,Consumer,East
+CUST1118,Customer_1118,Female,64,Pune,Consumer,West
+CUST1119,Customer_1119,Male,48,Mumbai,Consumer,West
+CUST1120,Customer_1120,Male,58,Hyderabad,Corporate,South
+CUST1121,Customer_1121,Female,63,Delhi,Consumer,North
+CUST1122,Customer_1122,Female,43,Chennai,Consumer,South
+CUST1123,Customer_1123,Female,22,Ahmedabad,Corporate,West
+CUST1124,Customer_1124,Female,37,Ahmedabad,Consumer,West
+CUST1125,Customer_1125,Female,58,Kolkata,Consumer,East
+CUST1126,Customer_1126,Female,28,Mumbai,Consumer,West
+CUST1127,Customer_1127,Male,50,Delhi,Consumer,North
+CUST1128,Customer_1128,Male,55,Pune,Home Office,West
+CUST1129,Customer_1129,Male,44,Delhi,Consumer,North
+CUST1130,Customer_1130,Male,51,Mumbai,Corporate,West
+CUST1131,Customer_1131,Female,32,Pune,Consumer,West
+CUST1132,Customer_1132,Male,49,Delhi,Consumer,North
+CUST1133,Customer_1133,Male,38,Pune,Consumer,West
+CUST1134,Customer_1134,Male,63,Kolkata,Consumer,East
+CUST1135,Customer_1135,Female,22,Kolkata,Consumer,East
+CUST1136,Customer_1136,Male,23,Mumbai,Consumer,West
+CUST1137,Customer_1137,Female,55,Mumbai,Consumer,West
+CUST1138,Customer_1138,Male,39,Pune,Consumer,West
+CUST1139,Customer_1139,Male,35,Bangalore,Consumer,South
+CUST1140,Customer_1140,Female,31,Hyderabad,Home Office,South
+CUST1141,Customer_1141,Female,27,Ahmedabad,Consumer,West
+CUST1142,Customer_1142,Male,63,Delhi,Consumer,North
+CUST1143,Customer_1143,Female,30,Delhi,Consumer,North
+CUST1144,Customer_1144,Female,48,Bangalore,Consumer,South
+CUST1145,Customer_1145,Male,47,Bangalore,Corporate,South
+CUST1146,Customer_1146,Female,20,Bangalore,Consumer,South
+CUST1147,Customer_1147,Female,47,Chennai,Corporate,South
+CUST1148,Customer_1148,Female,23,Chennai,Consumer,South
+CUST1149,Customer_1149,Female,46,Pune,Corporate,West
+CUST1150,Customer_1150,Female,25,Chennai,Consumer,South
+CUST1151,Customer_1151,Female,61,Kolkata,Home Office,East
+CUST1152,Customer_1152,Female,62,Kolkata,Consumer,East
+CUST1153,Customer_1153,Female,60,Mumbai,Consumer,West
+CUST1154,Customer_1154,Female,61,Ahmedabad,Consumer,West
+CUST1155,Customer_1155,Female,50,Pune,Consumer,West
+CUST1156,Customer_1156,Female,34,Ahmedabad,Home Office,West
+CUST1157,Customer_1157,Male,28,Delhi,Consumer,North
+CUST1158,Customer_1158,Female,30,Hyderabad,Consumer,South
+CUST1159,Customer_1159,Female,28,Mumbai,Consumer,West
+CUST1160,Customer_1160,Male,48,Delhi,Consumer,North
+CUST1161,Customer_1161,Female,45,Delhi,Consumer,North
+CUST1162,Customer_1162,Male,61,Pune,Corporate,West
+CUST1163,Customer_1163,Male,23,Bangalore,Consumer,South
+CUST1164,Customer_1164,Female,58,Bangalore,Home Office,South
+CUST1165,Customer_1165,Male,33,Ahmedabad,Consumer,West
+CUST1166,Customer_1166,Female,21,Mumbai,Consumer,West
+CUST1167,Customer_1167,Female,52,Bangalore,Corporate,South
+CUST1168,Customer_1168,Male,43,Delhi,Consumer,North
+CUST1169,Customer_1169,Male,29,Bangalore,Consumer,South
+CUST1170,Customer_1170,Male,28,Chennai,Consumer,South
+CUST1171,Customer_1171,Female,54,Bangalore,Consumer,South
+CUST1172,Customer_1172,Female,42,Delhi,Consumer,North
+CUST1173,Customer_1173,Female,35,Ahmedabad,Home Office,West
+CUST1174,Customer_1174,Male,36,Pune,Consumer,West
+CUST1175,Customer_1175,Female,40,Mumbai,Consumer,West
+CUST1176,Customer_1176,Male,55,Hyderabad,Corporate,South
+CUST1177,Customer_1177,Female,35,Bangalore,Home Office,South
+CUST1178,Customer_1178,Male,43,Kolkata,Consumer,East
+CUST1179,Customer_1179,Female,23,Kolkata,Consumer,East
+CUST1180,Customer_1180,Male,21,Ahmedabad,Consumer,West
+CUST1181,Customer_1181,Female,61,Delhi,Home Office,North
+CUST1182,Customer_1182,Male,46,Hyderabad,Home Office,South
+CUST1183,Customer_1183,Female,51,Hyderabad,Consumer,South
+CUST1184,Customer_1184,Female,34,Chennai,Consumer,South
+CUST1185,Customer_1185,Male,60,Hyderabad,Consumer,South
+CUST1186,Customer_1186,Female,60,Kolkata,Corporate,East
+CUST1187,Customer_1187,Female,33,Pune,Consumer,West
+CUST1188,Customer_1188,Male,19,Delhi,Corporate,North
+CUST1189,Customer_1189,Male,51,Delhi,Home Office,North
+CUST1190,Customer_1190,Female,25,Bangalore,Consumer,South
+CUST1191,Customer_1191,Male,30,Bangalore,Consumer,South
+CUST1192,Customer_1192,Female,59,Bangalore,Consumer,South
+CUST1193,Customer_1193,Male,25,Kolkata,Consumer,East
+CUST1194,Customer_1194,Female,47,Kolkata,Consumer,East
+CUST1195,Customer_1195,Male,49,Ahmedabad,Consumer,West
+CUST1196,Customer_1196,Female,53,Kolkata,Corporate,East
+CUST1197,Customer_1197,Female,64,Kolkata,Home Office,East
+CUST1198,Customer_1198,Female,47,Kolkata,Consumer,East
+CUST1199,Customer_1199,Female,18,Kolkata,Consumer,East
+CUST1200,Customer_1200,Male,60,Pune,Consumer,West
+CUST1201,Customer_1201,Female,56,Kolkata,Corporate,East
+CUST1202,Customer_1202,Male,34,Ahmedabad,Corporate,West
+CUST1203,Customer_1203,Male,37,Hyderabad,Consumer,South
+CUST1204,Customer_1204,Male,41,Hyderabad,Consumer,South
+CUST1205,Customer_1205,Male,39,Chennai,Consumer,South
+CUST1206,Customer_1206,Female,46,Pune,Consumer,West
+CUST1207,Customer_1207,Female,39,Bangalore,Consumer,South
+CUST1208,Customer_1208,Male,61,Mumbai,Corporate,West
+CUST1209,Customer_1209,Male,26,Kolkata,Home Office,East
+CUST1210,Customer_1210,Female,54,Chennai,Consumer,South
+CUST1211,Customer_1211,Male,27,Mumbai,Corporate,West
+CUST1212,Customer_1212,Male,53,Ahmedabad,Home Office,West
+CUST1213,Customer_1213,Male,54,Hyderabad,Consumer,South
+CUST1214,Customer_1214,Female,45,Chennai,Consumer,South
+CUST1215,Customer_1215,Female,45,Ahmedabad,Home Office,West
+CUST1216,Customer_1216,Male,59,Chennai,Consumer,South
+CUST1217,Customer_1217,Male,60,Delhi,Home Office,North
+CUST1218,Customer_1218,Female,38,Ahmedabad,Home Office,West
+CUST1219,Customer_1219,Female,41,Hyderabad,Corporate,South
+CUST1220,Customer_1220,Male,59,Hyderabad,Corporate,South
+CUST1221,Customer_1221,Female,57,Pune,Corporate,West
+CUST1222,Customer_1222,Male,19,Chennai,Corporate,South
+CUST1223,Customer_1223,Male,25,Kolkata,Consumer,East
+CUST1224,Customer_1224,Female,44,Hyderabad,Consumer,South
+CUST1225,Customer_1225,Male,39,Chennai,Consumer,South
+CUST1226,Customer_1226,Female,54,Pune,Corporate,West
+CUST1227,Customer_1227,Male,44,Kolkata,Consumer,East
+CUST1228,Customer_1228,Male,46,Ahmedabad,Consumer,West
+CUST1229,Customer_1229,Female,20,Pune,Consumer,West
+CUST1230,Customer_1230,Male,61,Delhi,Corporate,North
+CUST1231,Customer_1231,Female,30,Kolkata,Home Office,East
+CUST1232,Customer_1232,Male,62,Chennai,Home Office,South
+CUST1233,Customer_1233,Male,27,Hyderabad,Consumer,South
+CUST1234,Customer_1234,Male,53,Hyderabad,Home Office,South
+CUST1235,Customer_1235,Female,26,Chennai,Corporate,South
+CUST1236,Customer_1236,Male,44,Chennai,Consumer,South
+CUST1237,Customer_1237,Female,51,Chennai,Consumer,South
+CUST1238,Customer_1238,Male,18,Bangalore,Consumer,South
+CUST1239,Customer_1239,Female,49,Kolkata,Home Office,East
+CUST1240,Customer_1240,Male,42,Hyderabad,Consumer,South
+CUST1241,Customer_1241,Female,46,Kolkata,Consumer,East
+CUST1242,Customer_1242,Female,24,Pune,Corporate,West
+CUST1243,Customer_1243,Female,20,Hyderabad,Consumer,South
+CUST1244,Customer_1244,Female,37,Bangalore,Consumer,South
+CUST1245,Customer_1245,Female,37,Chennai,Consumer,South
+CUST1246,Customer_1246,Female,47,Delhi,Consumer,North
+CUST1247,Customer_1247,Male,52,Chennai,Corporate,South
+CUST1248,Customer_1248,Male,52,Ahmedabad,Consumer,West
+CUST1249,Customer_1249,Female,56,Chennai,Consumer,South
+CUST1250,Customer_1250,Female,44,Bangalore,Consumer,South
+CUST1251,Customer_1251,Female,43,Kolkata,Consumer,East
+CUST1252,Customer_1252,Male,31,Hyderabad,Consumer,South
+CUST1253,Customer_1253,Male,34,Chennai,Corporate,South
+CUST1254,Customer_1254,Male,35,Hyderabad,Corporate,South
+CUST1255,Customer_1255,Female,62,Mumbai,Corporate,West
+CUST1256,Customer_1256,Male,46,Pune,Home Office,West
+CUST1257,Customer_1257,Male,37,Kolkata,Consumer,East
+CUST1258,Customer_1258,Male,44,Hyderabad,Consumer,South
+CUST1259,Customer_1259,Male,35,Delhi,Home Office,North
+CUST1260,Customer_1260,Female,21,Pune,Consumer,West
+CUST1261,Customer_1261,Male,18,Ahmedabad,Consumer,West
+CUST1262,Customer_1262,Female,18,Ahmedabad,Consumer,West
+CUST1263,Customer_1263,Male,43,Delhi,Consumer,North
+CUST1264,Customer_1264,Male,62,Chennai,Consumer,South
+CUST1265,Customer_1265,Male,37,Pune,Home Office,West
+CUST1266,Customer_1266,Male,40,Hyderabad,Consumer,South
+CUST1267,Customer_1267,Male,27,Pune,Consumer,West
+CUST1268,Customer_1268,Male,28,Chennai,Home Office,South
+CUST1269,Customer_1269,Female,58,Bangalore,Home Office,South
+CUST1270,Customer_1270,Male,58,Kolkata,Consumer,East
+CUST1271,Customer_1271,Female,22,Delhi,Consumer,North
+CUST1272,Customer_1272,Female,18,Chennai,Corporate,South
+CUST1273,Customer_1273,Female,34,Bangalore,Corporate,South
+CUST1274,Customer_1274,Male,39,Pune,Corporate,West
+CUST1275,Customer_1275,Male,51,Pune,Home Office,West
+CUST1276,Customer_1276,Male,62,Chennai,Corporate,South
+CUST1277,Customer_1277,Male,58,Hyderabad,Consumer,South
+CUST1278,Customer_1278,Female,46,Pune,Corporate,West
+CUST1279,Customer_1279,Male,21,Hyderabad,Consumer,South
+CUST1280,Customer_1280,Male,22,Hyderabad,Corporate,South
+CUST1281,Customer_1281,Female,28,Kolkata,Consumer,East
+CUST1282,Customer_1282,Female,38,Hyderabad,Consumer,South
+CUST1283,Customer_1283,Female,52,Mumbai,Consumer,West
+CUST1284,Customer_1284,Male,29,Kolkata,Consumer,East
+CUST1285,Customer_1285,Male,43,Bangalore,Consumer,South
+CUST1286,Customer_1286,Male,36,Bangalore,Consumer,South
+CUST1287,Customer_1287,Male,62,Pune,Consumer,West
+CUST1288,Customer_1288,Male,24,Pune,Corporate,West
+CUST1289,Customer_1289,Male,64,Hyderabad,Consumer,South
+CUST1290,Customer_1290,Male,24,Kolkata,Corporate,East
+CUST1291,Customer_1291,Male,43,Kolkata,Corporate,East
+CUST1292,Customer_1292,Male,57,Mumbai,Corporate,West
+CUST1293,Customer_1293,Female,22,Hyderabad,Consumer,South
+CUST1294,Customer_1294,Female,38,Mumbai,Home Office,West
+CUST1295,Customer_1295,Female,31,Ahmedabad,Consumer,West
+CUST1296,Customer_1296,Male,21,Hyderabad,Consumer,South
+CUST1297,Customer_1297,Male,40,Delhi,Consumer,North
+CUST1298,Customer_1298,Male,59,Delhi,Consumer,North
+CUST1299,Customer_1299,Female,37,Chennai,Home Office,South
+CUST1300,Customer_1300,Female,32,Hyderabad,Consumer,South
+CUST1301,Customer_1301,Male,62,Kolkata,Corporate,East
+CUST1302,Customer_1302,Female,46,Pune,Corporate,West
+CUST1303,Customer_1303,Male,25,Bangalore,Consumer,South
+CUST1304,Customer_1304,Male,58,Chennai,Consumer,South
+CUST1305,Customer_1305,Female,36,Pune,Consumer,West
+CUST1306,Customer_1306,Female,56,Delhi,Consumer,North
+CUST1307,Customer_1307,Female,63,Hyderabad,Consumer,South
+CUST1308,Customer_1308,Female,45,Chennai,Home Office,South
+CUST1309,Customer_1309,Male,63,Hyderabad,Home Office,South
+CUST1310,Customer_1310,Female,44,Delhi,Consumer,North
+CUST1311,Customer_1311,Male,21,Chennai,Consumer,South
+CUST1312,Customer_1312,Female,32,Delhi,Corporate,North
+CUST1313,Customer_1313,Male,52,Mumbai,Consumer,West
+CUST1314,Customer_1314,Female,54,Delhi,Home Office,North
+CUST1315,Customer_1315,Male,18,Kolkata,Consumer,East
+CUST1316,Customer_1316,Female,20,Kolkata,Consumer,East
+CUST1317,Customer_1317,Male,64,Hyderabad,Corporate,South
+CUST1318,Customer_1318,Female,41,Bangalore,Consumer,South
+CUST1319,Customer_1319,Male,44,Delhi,Home Office,North
+CUST1320,Customer_1320,Male,57,Pune,Home Office,West
+CUST1321,Customer_1321,Male,53,Kolkata,Consumer,East
+CUST1322,Customer_1322,Male,51,Ahmedabad,Consumer,West
+CUST1323,Customer_1323,Female,46,Bangalore,Home Office,South
+CUST1324,Customer_1324,Male,41,Mumbai,Home Office,West
+CUST1325,Customer_1325,Female,41,Chennai,Consumer,South
+CUST1326,Customer_1326,Male,59,Chennai,Corporate,South
+CUST1327,Customer_1327,Male,21,Kolkata,Consumer,East
+CUST1328,Customer_1328,Female,20,Bangalore,Consumer,South
+CUST1329,Customer_1329,Female,51,Kolkata,Home Office,East
+CUST1330,Customer_1330,Male,40,Chennai,Consumer,South
+CUST1331,Customer_1331,Female,40,Ahmedabad,Home Office,West
+CUST1332,Customer_1332,Female,62,Delhi,Consumer,North
+CUST1333,Customer_1333,Male,22,Bangalore,Consumer,South
+CUST1334,Customer_1334,Female,48,Hyderabad,Consumer,South
+CUST1335,Customer_1335,Female,58,Delhi,Consumer,North
+CUST1336,Customer_1336,Female,23,Delhi,Corporate,North
+CUST1337,Customer_1337,Male,54,Delhi,Consumer,North
+CUST1338,Customer_1338,Female,27,Hyderabad,Consumer,South
+CUST1339,Customer_1339,Male,57,Ahmedabad,Consumer,West
+CUST1340,Customer_1340,Male,24,Mumbai,Consumer,West
+CUST1341,Customer_1341,Male,56,Ahmedabad,Corporate,West
+CUST1342,Customer_1342,Male,55,Ahmedabad,Consumer,West
+CUST1343,Customer_1343,Female,38,Ahmedabad,Consumer,West
+CUST1344,Customer_1344,Female,37,Pune,Consumer,West
+CUST1345,Customer_1345,Female,20,Kolkata,Consumer,East
+CUST1346,Customer_1346,Male,39,Chennai,Consumer,South
+CUST1347,Customer_1347,Male,64,Kolkata,Consumer,East
+CUST1348,Customer_1348,Male,21,Bangalore,Consumer,South
+CUST1349,Customer_1349,Female,45,Ahmedabad,Corporate,West
+CUST1350,Customer_1350,Male,29,Mumbai,Corporate,West
+CUST1351,Customer_1351,Female,55,Bangalore,Consumer,South
+CUST1352,Customer_1352,Female,53,Kolkata,Consumer,East
+CUST1353,Customer_1353,Male,64,Chennai,Consumer,South
+CUST1354,Customer_1354,Female,58,Hyderabad,Consumer,South
+CUST1355,Customer_1355,Male,22,Kolkata,Consumer,East
+CUST1356,Customer_1356,Female,30,Delhi,Consumer,North
+CUST1357,Customer_1357,Female,40,Kolkata,Consumer,East
+CUST1358,Customer_1358,Male,47,Delhi,Consumer,North
+CUST1359,Customer_1359,Male,54,Hyderabad,Consumer,South
+CUST1360,Customer_1360,Female,42,Kolkata,Consumer,East
+CUST1361,Customer_1361,Female,44,Mumbai,Consumer,West
+CUST1362,Customer_1362,Male,31,Mumbai,Consumer,West
+CUST1363,Customer_1363,Female,64,Bangalore,Consumer,South
+CUST1364,Customer_1364,Female,53,Hyderabad,Consumer,South
+CUST1365,Customer_1365,Female,56,Ahmedabad,Consumer,West
+CUST1366,Customer_1366,Male,33,Mumbai,Consumer,West
+CUST1367,Customer_1367,Female,39,Kolkata,Consumer,East
+CUST1368,Customer_1368,Female,38,Hyderabad,Consumer,South
+CUST1369,Customer_1369,Male,38,Chennai,Consumer,South
+CUST1370,Customer_1370,Male,25,Delhi,Consumer,North
+CUST1371,Customer_1371,Female,33,Kolkata,Corporate,East
+CUST1372,Customer_1372,Male,48,Delhi,Consumer,North
+CUST1373,Customer_1373,Female,59,Delhi,Consumer,North
+CUST1374,Customer_1374,Male,27,Ahmedabad,Home Office,West
+CUST1375,Customer_1375,Male,49,Hyderabad,Consumer,South
+CUST1376,Customer_1376,Female,51,Hyderabad,Consumer,South
+CUST1377,Customer_1377,Male,26,Bangalore,Home Office,South
+CUST1378,Customer_1378,Male,34,Delhi,Corporate,North
+CUST1379,Customer_1379,Male,28,Bangalore,Consumer,South
+CUST1380,Customer_1380,Female,49,Ahmedabad,Consumer,West
+CUST1381,Customer_1381,Male,27,Delhi,Consumer,North
+CUST1382,Customer_1382,Male,39,Bangalore,Consumer,South
+CUST1383,Customer_1383,Female,34,Bangalore,Consumer,South
+CUST1384,Customer_1384,Male,21,Chennai,Consumer,South
+CUST1385,Customer_1385,Female,64,Bangalore,Consumer,South
+CUST1386,Customer_1386,Male,42,Hyderabad,Home Office,South
+CUST1387,Customer_1387,Female,38,Bangalore,Home Office,South
+CUST1388,Customer_1388,Male,54,Delhi,Consumer,North
+CUST1389,Customer_1389,Female,55,Bangalore,Consumer,South
+CUST1390,Customer_1390,Male,18,Mumbai,Consumer,West
+CUST1391,Customer_1391,Male,42,Pune,Home Office,West
+CUST1392,Customer_1392,Male,53,Delhi,Consumer,North
+CUST1393,Customer_1393,Male,34,Mumbai,Consumer,West
+CUST1394,Customer_1394,Male,58,Ahmedabad,Consumer,West
+CUST1395,Customer_1395,Male,41,Delhi,Consumer,North
+CUST1396,Customer_1396,Female,19,Hyderabad,Consumer,South
+CUST1397,Customer_1397,Male,57,Pune,Corporate,West
+CUST1398,Customer_1398,Male,32,Pune,Corporate,West
+CUST1399,Customer_1399,Female,49,Hyderabad,Consumer,South
+CUST1400,Customer_1400,Female,56,Pune,Consumer,West
+CUST1401,Customer_1401,Male,23,Hyderabad,Consumer,South
+CUST1402,Customer_1402,Male,18,Mumbai,Home Office,West
+CUST1403,Customer_1403,Male,64,Ahmedabad,Home Office,West
+CUST1404,Customer_1404,Female,40,Chennai,Home Office,South
+CUST1405,Customer_1405,Female,56,Delhi,Home Office,North
+CUST1406,Customer_1406,Male,34,Hyderabad,Consumer,South
+CUST1407,Customer_1407,Female,51,Delhi,Consumer,North
+CUST1408,Customer_1408,Female,58,Ahmedabad,Consumer,West
+CUST1409,Customer_1409,Female,46,Mumbai,Home Office,West
+CUST1410,Customer_1410,Female,26,Chennai,Consumer,South
+CUST1411,Customer_1411,Male,30,Ahmedabad,Consumer,West
+CUST1412,Customer_1412,Male,23,Mumbai,Corporate,West
+CUST1413,Customer_1413,Male,23,Pune,Consumer,West
+CUST1414,Customer_1414,Male,37,Delhi,Consumer,North
+CUST1415,Customer_1415,Male,20,Kolkata,Corporate,East
+CUST1416,Customer_1416,Female,34,Chennai,Consumer,South
+CUST1417,Customer_1417,Male,29,Pune,Consumer,West
+CUST1418,Customer_1418,Male,64,Ahmedabad,Corporate,West
+CUST1419,Customer_1419,Male,62,Chennai,Consumer,South
+CUST1420,Customer_1420,Female,18,Pune,Home Office,West
+CUST1421,Customer_1421,Male,34,Mumbai,Consumer,West
+CUST1422,Customer_1422,Male,20,Hyderabad,Consumer,South
+CUST1423,Customer_1423,Male,43,Delhi,Corporate,North
+CUST1424,Customer_1424,Male,32,Bangalore,Consumer,South
+CUST1425,Customer_1425,Female,53,Bangalore,Consumer,South
+CUST1426,Customer_1426,Female,49,Mumbai,Corporate,West
+CUST1427,Customer_1427,Male,49,Ahmedabad,Consumer,West
+CUST1428,Customer_1428,Female,21,Delhi,Consumer,North
+CUST1429,Customer_1429,Female,35,Ahmedabad,Consumer,West
+CUST1430,Customer_1430,Female,36,Delhi,Consumer,North
+CUST1431,Customer_1431,Male,60,Mumbai,Consumer,West
+CUST1432,Customer_1432,Male,52,Delhi,Consumer,North
+CUST1433,Customer_1433,Male,57,Hyderabad,Corporate,South
+CUST1434,Customer_1434,Female,31,Ahmedabad,Home Office,West
+CUST1435,Customer_1435,Male,50,Mumbai,Consumer,West
+CUST1436,Customer_1436,Male,31,Hyderabad,Consumer,South
+CUST1437,Customer_1437,Male,51,Delhi,Consumer,North
+CUST1438,Customer_1438,Female,21,Mumbai,Consumer,West
+CUST1439,Customer_1439,Male,41,Delhi,Corporate,North
+CUST1440,Customer_1440,Female,46,Ahmedabad,Corporate,West
+CUST1441,Customer_1441,Female,36,Mumbai,Corporate,West
+CUST1442,Customer_1442,Male,23,Delhi,Consumer,North
+CUST1443,Customer_1443,Female,50,Ahmedabad,Consumer,West
+CUST1444,Customer_1444,Male,57,Hyderabad,Consumer,South
+CUST1445,Customer_1445,Female,36,Kolkata,Consumer,East
+CUST1446,Customer_1446,Male,18,Hyderabad,Consumer,South
+CUST1447,Customer_1447,Female,22,Delhi,Home Office,North
+CUST1448,Customer_1448,Female,44,Mumbai,Consumer,West
+CUST1449,Customer_1449,Female,33,Bangalore,Corporate,South
+CUST1450,Customer_1450,Female,23,Hyderabad,Consumer,South
+CUST1451,Customer_1451,Male,57,Hyderabad,Consumer,South
+CUST1452,Customer_1452,Female,30,Ahmedabad,Consumer,West
+CUST1453,Customer_1453,Female,52,Pune,Consumer,West
+CUST1454,Customer_1454,Female,36,Bangalore,Consumer,South
+CUST1455,Customer_1455,Male,29,Delhi,Consumer,North
+CUST1456,Customer_1456,Female,33,Kolkata,Home Office,East
+CUST1457,Customer_1457,Female,60,Mumbai,Consumer,West
+CUST1458,Customer_1458,Female,27,Pune,Consumer,West
+CUST1459,Customer_1459,Male,42,Delhi,Home Office,North
+CUST1460,Customer_1460,Female,37,Chennai,Corporate,South
+CUST1461,Customer_1461,Male,48,Kolkata,Corporate,East
+CUST1462,Customer_1462,Female,21,Hyderabad,Consumer,South
+CUST1463,Customer_1463,Male,61,Chennai,Home Office,South
+CUST1464,Customer_1464,Female,40,Hyderabad,Consumer,South
+CUST1465,Customer_1465,Female,19,Hyderabad,Consumer,South
+CUST1466,Customer_1466,Male,39,Chennai,Consumer,South
+CUST1467,Customer_1467,Female,54,Kolkata,Consumer,East
+CUST1468,Customer_1468,Male,25,Ahmedabad,Consumer,West
+CUST1469,Customer_1469,Female,24,Chennai,Consumer,South
+CUST1470,Customer_1470,Female,31,Delhi,Consumer,North
+CUST1471,Customer_1471,Female,20,Pune,Consumer,West
+CUST1472,Customer_1472,Female,33,Pune,Consumer,West
+CUST1473,Customer_1473,Female,36,Chennai,Home Office,South
+CUST1474,Customer_1474,Male,35,Delhi,Home Office,North
+CUST1475,Customer_1475,Male,33,Ahmedabad,Consumer,West
+CUST1476,Customer_1476,Female,25,Pune,Corporate,West
+CUST1477,Customer_1477,Female,50,Delhi,Corporate,North
+CUST1478,Customer_1478,Female,29,Ahmedabad,Consumer,West
+CUST1479,Customer_1479,Female,28,Delhi,Consumer,North
+CUST1480,Customer_1480,Male,22,Hyderabad,Corporate,South
+CUST1481,Customer_1481,Female,44,Pune,Home Office,West
+CUST1482,Customer_1482,Male,29,Ahmedabad,Consumer,West
+CUST1483,Customer_1483,Male,34,Pune,Consumer,West
+CUST1484,Customer_1484,Male,23,Hyderabad,Consumer,South
+CUST1485,Customer_1485,Male,50,Chennai,Consumer,South
+CUST1486,Customer_1486,Male,22,Hyderabad,Corporate,South
+CUST1487,Customer_1487,Male,45,Pune,Corporate,West
+CUST1488,Customer_1488,Female,31,Pune,Consumer,West
+CUST1489,Customer_1489,Male,22,Kolkata,Home Office,East
+CUST1490,Customer_1490,Male,50,Ahmedabad,Consumer,West
+CUST1491,Customer_1491,Male,58,Chennai,Home Office,South
+CUST1492,Customer_1492,Male,36,Hyderabad,Consumer,South
+CUST1493,Customer_1493,Male,39,Ahmedabad,Consumer,West
+CUST1494,Customer_1494,Male,22,Mumbai,Consumer,West
+CUST1495,Customer_1495,Female,19,Ahmedabad,Consumer,West
+CUST1496,Customer_1496,Female,47,Mumbai,Consumer,West
+CUST1497,Customer_1497,Female,64,Chennai,Consumer,South
+CUST1498,Customer_1498,Male,56,Hyderabad,Consumer,South
+CUST1499,Customer_1499,Male,21,Hyderabad,Corporate,South
+CUST1500,Customer_1500,Female,50,Delhi,Consumer,North
+CUST1501,Customer_1501,Male,30,Pune,Consumer,West
+CUST1502,Customer_1502,Male,37,Bangalore,Consumer,South
+CUST1503,Customer_1503,Male,24,Kolkata,Corporate,East
+CUST1504,Customer_1504,Male,32,Ahmedabad,Consumer,West
+CUST1505,Customer_1505,Male,40,Chennai,Home Office,South
+CUST1506,Customer_1506,Male,31,Bangalore,Corporate,South
+CUST1507,Customer_1507,Female,40,Ahmedabad,Consumer,West
+CUST1508,Customer_1508,Male,36,Bangalore,Consumer,South
+CUST1509,Customer_1509,Female,46,Chennai,Consumer,South
+CUST1510,Customer_1510,Female,37,Hyderabad,Consumer,South
+CUST1511,Customer_1511,Female,46,Chennai,Home Office,South
+CUST1512,Customer_1512,Female,41,Ahmedabad,Home Office,West
+CUST1513,Customer_1513,Female,35,Bangalore,Consumer,South
+CUST1514,Customer_1514,Male,27,Pune,Consumer,West
+CUST1515,Customer_1515,Male,58,Kolkata,Corporate,East
+CUST1516,Customer_1516,Male,25,Kolkata,Consumer,East
+CUST1517,Customer_1517,Female,43,Pune,Consumer,West
+CUST1518,Customer_1518,Female,46,Pune,Consumer,West
+CUST1519,Customer_1519,Male,27,Hyderabad,Consumer,South
+CUST1520,Customer_1520,Female,34,Ahmedabad,Corporate,West
+CUST1521,Customer_1521,Male,19,Mumbai,Consumer,West
+CUST1522,Customer_1522,Female,23,Chennai,Consumer,South
+CUST1523,Customer_1523,Male,22,Kolkata,Home Office,East
+CUST1524,Customer_1524,Male,45,Pune,Consumer,West
+CUST1525,Customer_1525,Male,58,Chennai,Home Office,South
+CUST1526,Customer_1526,Male,22,Kolkata,Consumer,East
+CUST1527,Customer_1527,Male,35,Pune,Consumer,West
+CUST1528,Customer_1528,Male,43,Ahmedabad,Home Office,West
+CUST1529,Customer_1529,Female,37,Kolkata,Consumer,East
+CUST1530,Customer_1530,Male,58,Hyderabad,Consumer,South
+CUST1531,Customer_1531,Male,44,Mumbai,Consumer,West
+CUST1532,Customer_1532,Female,29,Mumbai,Consumer,West
+CUST1533,Customer_1533,Female,24,Pune,Consumer,West
+CUST1534,Customer_1534,Male,20,Kolkata,Home Office,East
+CUST1535,Customer_1535,Male,27,Hyderabad,Home Office,South
+CUST1536,Customer_1536,Male,51,Delhi,Home Office,North
+CUST1537,Customer_1537,Male,42,Chennai,Consumer,South
+CUST1538,Customer_1538,Female,52,Chennai,Consumer,South
+CUST1539,Customer_1539,Male,33,Bangalore,Consumer,South
+CUST1540,Customer_1540,Male,19,Hyderabad,Home Office,South
+CUST1541,Customer_1541,Female,41,Kolkata,Consumer,East
+CUST1542,Customer_1542,Male,27,Ahmedabad,Consumer,West
+CUST1543,Customer_1543,Female,55,Ahmedabad,Corporate,West
+CUST1544,Customer_1544,Male,39,Bangalore,Consumer,South
+CUST1545,Customer_1545,Female,43,Pune,Consumer,West
+CUST1546,Customer_1546,Male,60,Kolkata,Home Office,East
+CUST1547,Customer_1547,Female,56,Bangalore,Home Office,South
+CUST1548,Customer_1548,Female,44,Mumbai,Consumer,West
+CUST1549,Customer_1549,Male,46,Chennai,Consumer,South
+CUST1550,Customer_1550,Female,64,Kolkata,Home Office,East
+CUST1551,Customer_1551,Female,55,Bangalore,Consumer,South
+CUST1552,Customer_1552,Female,37,Mumbai,Consumer,West
+CUST1553,Customer_1553,Female,44,Hyderabad,Consumer,South
+CUST1554,Customer_1554,Female,58,Bangalore,Consumer,South
+CUST1555,Customer_1555,Male,37,Pune,Consumer,West
+CUST1556,Customer_1556,Male,61,Pune,Consumer,West
+CUST1557,Customer_1557,Female,36,Pune,Consumer,West
+CUST1558,Customer_1558,Male,37,Kolkata,Consumer,East
+CUST1559,Customer_1559,Female,52,Ahmedabad,Home Office,West
+CUST1560,Customer_1560,Female,64,Ahmedabad,Corporate,West
+CUST1561,Customer_1561,Male,19,Chennai,Corporate,South
+CUST1562,Customer_1562,Male,47,Bangalore,Consumer,South
+CUST1563,Customer_1563,Female,51,Hyderabad,Consumer,South
+CUST1564,Customer_1564,Male,39,Bangalore,Consumer,South
+CUST1565,Customer_1565,Female,20,Chennai,Home Office,South
+CUST1566,Customer_1566,Male,23,Mumbai,Consumer,West
+CUST1567,Customer_1567,Female,32,Chennai,Consumer,South
+CUST1568,Customer_1568,Male,44,Pune,Corporate,West
+CUST1569,Customer_1569,Female,27,Kolkata,Consumer,East
+CUST1570,Customer_1570,Male,26,Mumbai,Consumer,West
+CUST1571,Customer_1571,Female,50,Kolkata,Home Office,East
+CUST1572,Customer_1572,Male,49,Pune,Home Office,West
+CUST1573,Customer_1573,Female,23,Delhi,Consumer,North
+CUST1574,Customer_1574,Female,58,Chennai,Home Office,South
+CUST1575,Customer_1575,Male,53,Chennai,Corporate,South
+CUST1576,Customer_1576,Male,19,Hyderabad,Corporate,South
+CUST1577,Customer_1577,Male,46,Bangalore,Consumer,South
+CUST1578,Customer_1578,Female,21,Mumbai,Consumer,West
+CUST1579,Customer_1579,Female,18,Ahmedabad,Consumer,West
+CUST1580,Customer_1580,Male,36,Kolkata,Home Office,East
+CUST1581,Customer_1581,Male,43,Mumbai,Consumer,West
+CUST1582,Customer_1582,Male,42,Hyderabad,Consumer,South
+CUST1583,Customer_1583,Female,27,Hyderabad,Consumer,South
+CUST1584,Customer_1584,Male,32,Kolkata,Corporate,East
+CUST1585,Customer_1585,Female,39,Ahmedabad,Consumer,West
+CUST1586,Customer_1586,Male,38,Bangalore,Consumer,South
+CUST1587,Customer_1587,Female,39,Kolkata,Consumer,East
+CUST1588,Customer_1588,Male,53,Kolkata,Consumer,East
+CUST1589,Customer_1589,Male,51,Pune,Corporate,West
+CUST1590,Customer_1590,Female,47,Ahmedabad,Corporate,West
+CUST1591,Customer_1591,Female,42,Bangalore,Consumer,South
+CUST1592,Customer_1592,Female,62,Chennai,Consumer,South
+CUST1593,Customer_1593,Male,45,Pune,Corporate,West
+CUST1594,Customer_1594,Male,18,Delhi,Consumer,North
+CUST1595,Customer_1595,Female,62,Ahmedabad,Consumer,West
+CUST1596,Customer_1596,Female,21,Bangalore,Home Office,South
+CUST1597,Customer_1597,Male,24,Hyderabad,Consumer,South
+CUST1598,Customer_1598,Male,26,Pune,Home Office,West
+CUST1599,Customer_1599,Male,53,Bangalore,Consumer,South
+CUST1600,Customer_1600,Female,36,Mumbai,Consumer,West
+CUST1601,Customer_1601,Male,18,Kolkata,Consumer,East
+CUST1602,Customer_1602,Male,27,Delhi,Home Office,North
+CUST1603,Customer_1603,Male,53,Chennai,Consumer,South
+CUST1604,Customer_1604,Male,26,Kolkata,Consumer,East
+CUST1605,Customer_1605,Male,62,Mumbai,Home Office,West
+CUST1606,Customer_1606,Male,63,Mumbai,Consumer,West
+CUST1607,Customer_1607,Male,59,Delhi,Consumer,North
+CUST1608,Customer_1608,Female,49,Chennai,Consumer,South
+CUST1609,Customer_1609,Male,49,Hyderabad,Corporate,South
+CUST1610,Customer_1610,Male,23,Pune,Consumer,West
+CUST1611,Customer_1611,Female,55,Ahmedabad,Consumer,West
+CUST1612,Customer_1612,Female,34,Chennai,Consumer,South
+CUST1613,Customer_1613,Male,27,Ahmedabad,Consumer,West
+CUST1614,Customer_1614,Male,44,Bangalore,Home Office,South
+CUST1615,Customer_1615,Male,52,Mumbai,Home Office,West
+CUST1616,Customer_1616,Female,38,Bangalore,Corporate,South
+CUST1617,Customer_1617,Female,42,Hyderabad,Corporate,South
+CUST1618,Customer_1618,Female,45,Bangalore,Corporate,South
+CUST1619,Customer_1619,Female,64,Chennai,Consumer,South
+CUST1620,Customer_1620,Female,32,Bangalore,Corporate,South
+CUST1621,Customer_1621,Male,21,Hyderabad,Consumer,South
+CUST1622,Customer_1622,Male,46,Hyderabad,Consumer,South
+CUST1623,Customer_1623,Female,26,Hyderabad,Corporate,South
+CUST1624,Customer_1624,Female,44,Chennai,Consumer,South
+CUST1625,Customer_1625,Male,43,Hyderabad,Home Office,South
+CUST1626,Customer_1626,Female,36,Mumbai,Consumer,West
+CUST1627,Customer_1627,Male,45,Kolkata,Consumer,East
+CUST1628,Customer_1628,Male,34,Hyderabad,Consumer,South
+CUST1629,Customer_1629,Male,60,Bangalore,Consumer,South
+CUST1630,Customer_1630,Male,58,Pune,Corporate,West
+CUST1631,Customer_1631,Female,59,Bangalore,Consumer,South
+CUST1632,Customer_1632,Male,37,Pune,Consumer,West
+CUST1633,Customer_1633,Female,62,Bangalore,Consumer,South
+CUST1634,Customer_1634,Female,57,Chennai,Consumer,South
+CUST1635,Customer_1635,Female,56,Bangalore,Consumer,South
+CUST1636,Customer_1636,Male,40,Chennai,Home Office,South
+CUST1637,Customer_1637,Male,64,Chennai,Consumer,South
+CUST1638,Customer_1638,Male,49,Hyderabad,Corporate,South
+CUST1639,Customer_1639,Female,64,Mumbai,Home Office,West
+CUST1640,Customer_1640,Female,50,Pune,Consumer,West
+CUST1641,Customer_1641,Male,63,Hyderabad,Corporate,South
+CUST1642,Customer_1642,Female,22,Hyderabad,Corporate,South
+CUST1643,Customer_1643,Male,60,Kolkata,Consumer,East
+CUST1644,Customer_1644,Female,51,Chennai,Consumer,South
+CUST1645,Customer_1645,Male,57,Chennai,Consumer,South
+CUST1646,Customer_1646,Female,28,Pune,Home Office,West
+CUST1647,Customer_1647,Male,20,Bangalore,Home Office,South
+CUST1648,Customer_1648,Female,50,Bangalore,Corporate,South
+CUST1649,Customer_1649,Female,28,Ahmedabad,Consumer,West
+CUST1650,Customer_1650,Female,33,Hyderabad,Consumer,South
+CUST1651,Customer_1651,Male,35,Ahmedabad,Consumer,West
+CUST1652,Customer_1652,Male,47,Delhi,Consumer,North
+CUST1653,Customer_1653,Male,27,Delhi,Consumer,North
+CUST1654,Customer_1654,Male,35,Ahmedabad,Home Office,West
+CUST1655,Customer_1655,Male,55,Bangalore,Home Office,South
+CUST1656,Customer_1656,Female,36,Delhi,Corporate,North
+CUST1657,Customer_1657,Female,53,Kolkata,Consumer,East
+CUST1658,Customer_1658,Male,30,Bangalore,Consumer,South
+CUST1659,Customer_1659,Male,63,Chennai,Consumer,South
+CUST1660,Customer_1660,Male,20,Hyderabad,Corporate,South
+CUST1661,Customer_1661,Female,27,Mumbai,Corporate,West
+CUST1662,Customer_1662,Male,55,Hyderabad,Consumer,South
+CUST1663,Customer_1663,Female,18,Ahmedabad,Consumer,West
+CUST1664,Customer_1664,Male,44,Bangalore,Consumer,South
+CUST1665,Customer_1665,Female,63,Ahmedabad,Consumer,West
+CUST1666,Customer_1666,Female,25,Kolkata,Consumer,East
+CUST1667,Customer_1667,Male,63,Bangalore,Consumer,South
+CUST1668,Customer_1668,Female,59,Hyderabad,Consumer,South
+CUST1669,Customer_1669,Male,34,Kolkata,Home Office,East
+CUST1670,Customer_1670,Female,26,Kolkata,Consumer,East
+CUST1671,Customer_1671,Male,23,Kolkata,Consumer,East
+CUST1672,Customer_1672,Female,60,Pune,Consumer,West
+CUST1673,Customer_1673,Female,42,Bangalore,Consumer,South
+CUST1674,Customer_1674,Female,56,Delhi,Consumer,North
+CUST1675,Customer_1675,Female,45,Delhi,Consumer,North
+CUST1676,Customer_1676,Male,50,Bangalore,Consumer,South
+CUST1677,Customer_1677,Male,54,Bangalore,Consumer,South
+CUST1678,Customer_1678,Male,26,Pune,Corporate,West
+CUST1679,Customer_1679,Male,35,Delhi,Consumer,North
+CUST1680,Customer_1680,Female,38,Bangalore,Corporate,South
+CUST1681,Customer_1681,Male,19,Bangalore,Consumer,South
+CUST1682,Customer_1682,Female,60,Ahmedabad,Consumer,West
+CUST1683,Customer_1683,Female,55,Pune,Consumer,West
+CUST1684,Customer_1684,Female,57,Pune,Consumer,West
+CUST1685,Customer_1685,Male,53,Hyderabad,Home Office,South
+CUST1686,Customer_1686,Female,60,Pune,Corporate,West
+CUST1687,Customer_1687,Female,54,Mumbai,Home Office,West
+CUST1688,Customer_1688,Male,32,Delhi,Home Office,North
+CUST1689,Customer_1689,Female,45,Hyderabad,Consumer,South
+CUST1690,Customer_1690,Female,35,Mumbai,Consumer,West
+CUST1691,Customer_1691,Male,51,Bangalore,Consumer,South
+CUST1692,Customer_1692,Male,39,Ahmedabad,Home Office,West
+CUST1693,Customer_1693,Male,28,Ahmedabad,Corporate,West
+CUST1694,Customer_1694,Male,30,Bangalore,Consumer,South
+CUST1695,Customer_1695,Male,21,Hyderabad,Corporate,South
+CUST1696,Customer_1696,Male,39,Pune,Consumer,West
+CUST1697,Customer_1697,Male,24,Kolkata,Consumer,East
+CUST1698,Customer_1698,Male,60,Ahmedabad,Consumer,West
+CUST1699,Customer_1699,Female,41,Kolkata,Corporate,East
+CUST1700,Customer_1700,Male,21,Bangalore,Home Office,South
+CUST1701,Customer_1701,Female,45,Kolkata,Consumer,East
+CUST1702,Customer_1702,Male,32,Chennai,Consumer,South
+CUST1703,Customer_1703,Male,18,Hyderabad,Consumer,South
+CUST1704,Customer_1704,Male,20,Mumbai,Corporate,West
+CUST1705,Customer_1705,Male,31,Hyderabad,Consumer,South
+CUST1706,Customer_1706,Male,55,Delhi,Consumer,North
+CUST1707,Customer_1707,Female,18,Pune,Consumer,West
+CUST1708,Customer_1708,Male,55,Pune,Consumer,West
+CUST1709,Customer_1709,Female,55,Hyderabad,Consumer,South
+CUST1710,Customer_1710,Female,38,Bangalore,Corporate,South
+CUST1711,Customer_1711,Male,46,Bangalore,Consumer,South
+CUST1712,Customer_1712,Male,22,Chennai,Corporate,South
+CUST1713,Customer_1713,Female,27,Chennai,Consumer,South
+CUST1714,Customer_1714,Male,45,Pune,Consumer,West
+CUST1715,Customer_1715,Male,38,Chennai,Consumer,South
+CUST1716,Customer_1716,Female,24,Ahmedabad,Corporate,West
+CUST1717,Customer_1717,Male,20,Ahmedabad,Home Office,West
+CUST1718,Customer_1718,Female,62,Mumbai,Home Office,West
+CUST1719,Customer_1719,Female,64,Chennai,Consumer,South
+CUST1720,Customer_1720,Male,37,Mumbai,Consumer,West
+CUST1721,Customer_1721,Male,36,Chennai,Corporate,South
+CUST1722,Customer_1722,Male,52,Pune,Corporate,West
+CUST1723,Customer_1723,Male,21,Pune,Consumer,West
+CUST1724,Customer_1724,Male,22,Mumbai,Corporate,West
+CUST1725,Customer_1725,Female,18,Hyderabad,Consumer,South
+CUST1726,Customer_1726,Male,21,Pune,Consumer,West
+CUST1727,Customer_1727,Male,29,Hyderabad,Consumer,South
+CUST1728,Customer_1728,Female,44,Bangalore,Consumer,South
+CUST1729,Customer_1729,Female,59,Ahmedabad,Consumer,West
+CUST1730,Customer_1730,Female,40,Mumbai,Consumer,West
+CUST1731,Customer_1731,Male,42,Kolkata,Consumer,East
+CUST1732,Customer_1732,Female,38,Pune,Consumer,West
+CUST1733,Customer_1733,Male,41,Delhi,Consumer,North
+CUST1734,Customer_1734,Male,42,Bangalore,Corporate,South
+CUST1735,Customer_1735,Male,62,Hyderabad,Consumer,South
+CUST1736,Customer_1736,Female,63,Pune,Consumer,West
+CUST1737,Customer_1737,Male,49,Mumbai,Consumer,West
+CUST1738,Customer_1738,Male,49,Kolkata,Home Office,East
+CUST1739,Customer_1739,Male,22,Chennai,Consumer,South
+CUST1740,Customer_1740,Male,53,Kolkata,Consumer,East
+CUST1741,Customer_1741,Female,63,Delhi,Consumer,North
+CUST1742,Customer_1742,Female,59,Hyderabad,Corporate,South
+CUST1743,Customer_1743,Female,59,Bangalore,Consumer,South
+CUST1744,Customer_1744,Male,56,Kolkata,Consumer,East
+CUST1745,Customer_1745,Male,33,Mumbai,Consumer,West
+CUST1746,Customer_1746,Male,50,Delhi,Consumer,North
+CUST1747,Customer_1747,Male,38,Mumbai,Corporate,West
+CUST1748,Customer_1748,Male,26,Pune,Home Office,West
+CUST1749,Customer_1749,Female,23,Chennai,Consumer,South
+CUST1750,Customer_1750,Male,62,Bangalore,Corporate,South
+CUST1751,Customer_1751,Male,52,Mumbai,Consumer,West
+CUST1752,Customer_1752,Male,56,Hyderabad,Consumer,South
+CUST1753,Customer_1753,Male,39,Pune,Corporate,West
+CUST1754,Customer_1754,Male,58,Pune,Consumer,West
+CUST1755,Customer_1755,Female,22,Bangalore,Home Office,South
+CUST1756,Customer_1756,Female,59,Pune,Consumer,West
+CUST1757,Customer_1757,Female,40,Hyderabad,Consumer,South
+CUST1758,Customer_1758,Male,34,Mumbai,Consumer,West
+CUST1759,Customer_1759,Male,29,Bangalore,Consumer,South
+CUST1760,Customer_1760,Male,40,Ahmedabad,Corporate,West
+CUST1761,Customer_1761,Male,33,Pune,Consumer,West
+CUST1762,Customer_1762,Female,20,Pune,Corporate,West
+CUST1763,Customer_1763,Male,47,Hyderabad,Consumer,South
+CUST1764,Customer_1764,Male,39,Chennai,Consumer,South
+CUST1765,Customer_1765,Male,26,Chennai,Home Office,South
+CUST1766,Customer_1766,Male,46,Kolkata,Corporate,East
+CUST1767,Customer_1767,Female,64,Pune,Consumer,West
+CUST1768,Customer_1768,Male,54,Ahmedabad,Corporate,West
+CUST1769,Customer_1769,Male,40,Mumbai,Consumer,West
+CUST1770,Customer_1770,Male,30,Bangalore,Consumer,South
+CUST1771,Customer_1771,Male,49,Pune,Consumer,West
+CUST1772,Customer_1772,Female,63,Delhi,Home Office,North
+CUST1773,Customer_1773,Female,64,Bangalore,Consumer,South
+CUST1774,Customer_1774,Female,40,Kolkata,Corporate,East
+CUST1775,Customer_1775,Female,62,Chennai,Consumer,South
+CUST1776,Customer_1776,Male,34,Ahmedabad,Corporate,West
+CUST1777,Customer_1777,Female,57,Pune,Consumer,West
+CUST1778,Customer_1778,Male,38,Hyderabad,Corporate,South
+CUST1779,Customer_1779,Male,19,Delhi,Consumer,North
+CUST1780,Customer_1780,Female,54,Pune,Corporate,West
+CUST1781,Customer_1781,Male,23,Ahmedabad,Home Office,West
+CUST1782,Customer_1782,Female,61,Kolkata,Corporate,East
+CUST1783,Customer_1783,Male,35,Mumbai,Consumer,West
+CUST1784,Customer_1784,Female,47,Delhi,Home Office,North
+CUST1785,Customer_1785,Female,39,Kolkata,Consumer,East
+CUST1786,Customer_1786,Female,50,Pune,Corporate,West
+CUST1787,Customer_1787,Female,47,Mumbai,Home Office,West
+CUST1788,Customer_1788,Female,34,Delhi,Consumer,North
+CUST1789,Customer_1789,Male,60,Mumbai,Consumer,West
+CUST1790,Customer_1790,Male,49,Mumbai,Consumer,West
+CUST1791,Customer_1791,Male,59,Delhi,Consumer,North
+CUST1792,Customer_1792,Female,31,Delhi,Consumer,North
+CUST1793,Customer_1793,Male,27,Mumbai,Consumer,West
+CUST1794,Customer_1794,Female,64,Kolkata,Consumer,East
+CUST1795,Customer_1795,Male,53,Ahmedabad,Consumer,West
+CUST1796,Customer_1796,Male,51,Chennai,Consumer,South
+CUST1797,Customer_1797,Female,26,Delhi,Consumer,North
+CUST1798,Customer_1798,Male,59,Pune,Home Office,West
+CUST1799,Customer_1799,Male,45,Bangalore,Consumer,South
+CUST1800,Customer_1800,Male,28,Hyderabad,Home Office,South
+CUST1801,Customer_1801,Female,31,Mumbai,Consumer,West
+CUST1802,Customer_1802,Female,56,Mumbai,Consumer,West
+CUST1803,Customer_1803,Male,64,Hyderabad,Corporate,South
+CUST1804,Customer_1804,Male,36,Chennai,Consumer,South
+CUST1805,Customer_1805,Male,32,Hyderabad,Consumer,South
+CUST1806,Customer_1806,Female,45,Delhi,Consumer,North
+CUST1807,Customer_1807,Female,41,Hyderabad,Consumer,South
+CUST1808,Customer_1808,Male,25,Mumbai,Consumer,West
+CUST1809,Customer_1809,Male,60,Hyderabad,Consumer,South
+CUST1810,Customer_1810,Male,26,Bangalore,Consumer,South
+CUST1811,Customer_1811,Female,64,Pune,Consumer,West
+CUST1812,Customer_1812,Female,50,Delhi,Consumer,North
+CUST1813,Customer_1813,Male,50,Hyderabad,Consumer,South
+CUST1814,Customer_1814,Male,36,Mumbai,Consumer,West
+CUST1815,Customer_1815,Male,20,Kolkata,Consumer,East
+CUST1816,Customer_1816,Female,27,Pune,Home Office,West
+CUST1817,Customer_1817,Male,57,Delhi,Consumer,North
+CUST1818,Customer_1818,Female,64,Mumbai,Consumer,West
+CUST1819,Customer_1819,Female,59,Chennai,Consumer,South
+CUST1820,Customer_1820,Male,18,Bangalore,Home Office,South
+CUST1821,Customer_1821,Male,46,Ahmedabad,Consumer,West
+CUST1822,Customer_1822,Male,51,Chennai,Home Office,South
+CUST1823,Customer_1823,Female,30,Ahmedabad,Consumer,West
+CUST1824,Customer_1824,Female,18,Bangalore,Consumer,South
+CUST1825,Customer_1825,Female,51,Hyderabad,Home Office,South
+CUST1826,Customer_1826,Male,46,Delhi,Consumer,North
+CUST1827,Customer_1827,Male,64,Hyderabad,Consumer,South
+CUST1828,Customer_1828,Female,30,Bangalore,Corporate,South
+CUST1829,Customer_1829,Female,46,Bangalore,Home Office,South
+CUST1830,Customer_1830,Male,56,Bangalore,Consumer,South
+CUST1831,Customer_1831,Female,41,Ahmedabad,Consumer,West
+CUST1832,Customer_1832,Female,43,Pune,Corporate,West
+CUST1833,Customer_1833,Female,34,Mumbai,Corporate,West
+CUST1834,Customer_1834,Female,24,Delhi,Home Office,North
+CUST1835,Customer_1835,Female,30,Hyderabad,Corporate,South
+CUST1836,Customer_1836,Female,22,Hyderabad,Consumer,South
+CUST1837,Customer_1837,Male,43,Chennai,Home Office,South
+CUST1838,Customer_1838,Male,20,Ahmedabad,Consumer,West
+CUST1839,Customer_1839,Female,24,Bangalore,Consumer,South
+CUST1840,Customer_1840,Male,56,Kolkata,Consumer,East
+CUST1841,Customer_1841,Male,18,Bangalore,Consumer,South
+CUST1842,Customer_1842,Male,34,Bangalore,Consumer,South
+CUST1843,Customer_1843,Male,60,Kolkata,Corporate,East
+CUST1844,Customer_1844,Female,42,Hyderabad,Consumer,South
+CUST1845,Customer_1845,Female,20,Chennai,Consumer,South
+CUST1846,Customer_1846,Male,32,Mumbai,Corporate,West
+CUST1847,Customer_1847,Male,46,Kolkata,Consumer,East
+CUST1848,Customer_1848,Male,60,Ahmedabad,Consumer,West
+CUST1849,Customer_1849,Female,49,Pune,Consumer,West
+CUST1850,Customer_1850,Female,43,Delhi,Home Office,North
+CUST1851,Customer_1851,Male,33,Ahmedabad,Consumer,West
+CUST1852,Customer_1852,Female,42,Kolkata,Consumer,East
+CUST1853,Customer_1853,Female,45,Mumbai,Consumer,West
+CUST1854,Customer_1854,Female,26,Hyderabad,Consumer,South
+CUST1855,Customer_1855,Female,18,Pune,Consumer,West
+CUST1856,Customer_1856,Male,46,Pune,Consumer,West
+CUST1857,Customer_1857,Female,39,Pune,Consumer,West
+CUST1858,Customer_1858,Male,33,Bangalore,Home Office,South
+CUST1859,Customer_1859,Female,58,Delhi,Consumer,North
+CUST1860,Customer_1860,Female,61,Hyderabad,Consumer,South
+CUST1861,Customer_1861,Female,58,Hyderabad,Consumer,South
+CUST1862,Customer_1862,Female,24,Pune,Consumer,West
+CUST1863,Customer_1863,Male,31,Hyderabad,Corporate,South
+CUST1864,Customer_1864,Male,46,Delhi,Consumer,North
+CUST1865,Customer_1865,Female,36,Delhi,Consumer,North
+CUST1866,Customer_1866,Female,36,Chennai,Corporate,South
+CUST1867,Customer_1867,Male,19,Kolkata,Consumer,East
+CUST1868,Customer_1868,Male,58,Kolkata,Consumer,East
+CUST1869,Customer_1869,Male,62,Chennai,Consumer,South
+CUST1870,Customer_1870,Female,32,Mumbai,Consumer,West
+CUST1871,Customer_1871,Female,20,Kolkata,Consumer,East
+CUST1872,Customer_1872,Male,28,Delhi,Consumer,North
+CUST1873,Customer_1873,Male,63,Delhi,Consumer,North
+CUST1874,Customer_1874,Female,47,Kolkata,Home Office,East
+CUST1875,Customer_1875,Female,57,Delhi,Consumer,North
+CUST1876,Customer_1876,Male,35,Chennai,Consumer,South
+CUST1877,Customer_1877,Female,19,Pune,Consumer,West
+CUST1878,Customer_1878,Male,49,Pune,Consumer,West
+CUST1879,Customer_1879,Male,25,Hyderabad,Consumer,South
+CUST1880,Customer_1880,Female,39,Ahmedabad,Home Office,West
+CUST1881,Customer_1881,Female,23,Ahmedabad,Corporate,West
+CUST1882,Customer_1882,Female,29,Pune,Home Office,West
+CUST1883,Customer_1883,Female,64,Bangalore,Home Office,South
+CUST1884,Customer_1884,Female,57,Chennai,Consumer,South
+CUST1885,Customer_1885,Male,53,Delhi,Consumer,North
+CUST1886,Customer_1886,Male,32,Kolkata,Consumer,East
+CUST1887,Customer_1887,Male,45,Pune,Consumer,West
+CUST1888,Customer_1888,Male,62,Chennai,Home Office,South
+CUST1889,Customer_1889,Female,35,Pune,Consumer,West
+CUST1890,Customer_1890,Female,19,Mumbai,Home Office,West
+CUST1891,Customer_1891,Male,30,Delhi,Consumer,North
+CUST1892,Customer_1892,Male,62,Mumbai,Home Office,West
+CUST1893,Customer_1893,Female,32,Delhi,Home Office,North
+CUST1894,Customer_1894,Male,37,Chennai,Corporate,South
+CUST1895,Customer_1895,Female,46,Hyderabad,Corporate,South
+CUST1896,Customer_1896,Female,59,Pune,Consumer,West
+CUST1897,Customer_1897,Female,46,Pune,Corporate,West
+CUST1898,Customer_1898,Male,20,Bangalore,Home Office,South
+CUST1899,Customer_1899,Male,36,Kolkata,Corporate,East
+CUST1900,Customer_1900,Female,20,Mumbai,Consumer,West
+CUST1901,Customer_1901,Female,31,Pune,Consumer,West
+CUST1902,Customer_1902,Male,57,Chennai,Corporate,South
+CUST1903,Customer_1903,Female,21,Hyderabad,Consumer,South
+CUST1904,Customer_1904,Male,28,Kolkata,Corporate,East
+CUST1905,Customer_1905,Female,48,Chennai,Consumer,South
+CUST1906,Customer_1906,Male,60,Mumbai,Consumer,West
+CUST1907,Customer_1907,Female,49,Bangalore,Consumer,South
+CUST1908,Customer_1908,Male,44,Pune,Consumer,West
+CUST1909,Customer_1909,Male,47,Chennai,Consumer,South
+CUST1910,Customer_1910,Male,60,Kolkata,Consumer,East
+CUST1911,Customer_1911,Male,19,Delhi,Consumer,North
+CUST1912,Customer_1912,Female,26,Hyderabad,Consumer,South
+CUST1913,Customer_1913,Female,45,Kolkata,Consumer,East
+CUST1914,Customer_1914,Male,48,Chennai,Corporate,South
+CUST1915,Customer_1915,Male,51,Hyderabad,Home Office,South
+CUST1916,Customer_1916,Female,32,Pune,Corporate,West
+CUST1917,Customer_1917,Female,42,Delhi,Home Office,North
+CUST1918,Customer_1918,Female,53,Bangalore,Corporate,South
+CUST1919,Customer_1919,Male,25,Kolkata,Consumer,East
+CUST1920,Customer_1920,Male,26,Bangalore,Corporate,South
+CUST1921,Customer_1921,Female,54,Delhi,Corporate,North
+CUST1922,Customer_1922,Male,62,Hyderabad,Consumer,South
+CUST1923,Customer_1923,Female,56,Pune,Consumer,West
+CUST1924,Customer_1924,Male,49,Chennai,Corporate,South
+CUST1925,Customer_1925,Female,34,Delhi,Consumer,North
+CUST1926,Customer_1926,Male,52,Mumbai,Consumer,West
+CUST1927,Customer_1927,Female,54,Hyderabad,Consumer,South
+CUST1928,Customer_1928,Male,36,Bangalore,Consumer,South
+CUST1929,Customer_1929,Female,61,Kolkata,Consumer,East
+CUST1930,Customer_1930,Male,46,Delhi,Consumer,North
+CUST1931,Customer_1931,Female,24,Bangalore,Consumer,South
+CUST1932,Customer_1932,Female,45,Hyderabad,Consumer,South
+CUST1933,Customer_1933,Female,26,Bangalore,Corporate,South
+CUST1934,Customer_1934,Female,45,Delhi,Home Office,North
+CUST1935,Customer_1935,Female,23,Hyderabad,Consumer,South
+CUST1936,Customer_1936,Female,46,Mumbai,Corporate,West
+CUST1937,Customer_1937,Male,34,Delhi,Consumer,North
+CUST1938,Customer_1938,Female,33,Chennai,Consumer,South
+CUST1939,Customer_1939,Male,40,Ahmedabad,Consumer,West
+CUST1940,Customer_1940,Male,48,Pune,Consumer,West
+CUST1941,Customer_1941,Male,20,Delhi,Consumer,North
+CUST1942,Customer_1942,Male,38,Hyderabad,Consumer,South
+CUST1943,Customer_1943,Female,43,Kolkata,Corporate,East
+CUST1944,Customer_1944,Female,53,Pune,Corporate,West
+CUST1945,Customer_1945,Female,59,Delhi,Consumer,North
+CUST1946,Customer_1946,Male,54,Mumbai,Consumer,West
+CUST1947,Customer_1947,Male,39,Kolkata,Consumer,East
+CUST1948,Customer_1948,Male,59,Mumbai,Consumer,West
+CUST1949,Customer_1949,Male,29,Chennai,Corporate,South
+CUST1950,Customer_1950,Male,59,Kolkata,Consumer,East
+CUST1951,Customer_1951,Male,30,Bangalore,Corporate,South
+CUST1952,Customer_1952,Male,28,Ahmedabad,Home Office,West
+CUST1953,Customer_1953,Female,33,Kolkata,Consumer,East
+CUST1954,Customer_1954,Female,25,Pune,Home Office,West
+CUST1955,Customer_1955,Female,57,Kolkata,Consumer,East
+CUST1956,Customer_1956,Female,57,Hyderabad,Consumer,South
+CUST1957,Customer_1957,Female,62,Ahmedabad,Consumer,West
+CUST1958,Customer_1958,Male,19,Hyderabad,Consumer,South
+CUST1959,Customer_1959,Female,47,Bangalore,Consumer,South
+CUST1960,Customer_1960,Female,47,Kolkata,Consumer,East
+CUST1961,Customer_1961,Male,29,Mumbai,Corporate,West
+CUST1962,Customer_1962,Male,27,Mumbai,Home Office,West
+CUST1963,Customer_1963,Female,61,Delhi,Corporate,North
+CUST1964,Customer_1964,Male,28,Chennai,Consumer,South
+CUST1965,Customer_1965,Female,32,Pune,Corporate,West
+CUST1966,Customer_1966,Female,33,Ahmedabad,Consumer,West
+CUST1967,Customer_1967,Male,34,Chennai,Corporate,South
+CUST1968,Customer_1968,Male,43,Kolkata,Corporate,East
+CUST1969,Customer_1969,Male,19,Chennai,Home Office,South
+CUST1970,Customer_1970,Male,29,Delhi,Consumer,North
+CUST1971,Customer_1971,Male,43,Chennai,Corporate,South
+CUST1972,Customer_1972,Female,40,Ahmedabad,Consumer,West
+CUST1973,Customer_1973,Male,35,Bangalore,Home Office,South
+CUST1974,Customer_1974,Male,49,Delhi,Consumer,North
+CUST1975,Customer_1975,Male,55,Bangalore,Consumer,South
+CUST1976,Customer_1976,Female,64,Kolkata,Consumer,East
+CUST1977,Customer_1977,Male,20,Delhi,Corporate,North
+CUST1978,Customer_1978,Male,55,Kolkata,Consumer,East
+CUST1979,Customer_1979,Female,20,Kolkata,Consumer,East
+CUST1980,Customer_1980,Female,47,Chennai,Home Office,South
+CUST1981,Customer_1981,Male,18,Bangalore,Home Office,South
+CUST1982,Customer_1982,Female,47,Kolkata,Consumer,East
+CUST1983,Customer_1983,Male,62,Bangalore,Consumer,South
+CUST1984,Customer_1984,Male,49,Bangalore,Corporate,South
+CUST1985,Customer_1985,Male,45,Delhi,Home Office,North
+CUST1986,Customer_1986,Male,38,Hyderabad,Consumer,South
+CUST1987,Customer_1987,Female,63,Chennai,Consumer,South
+CUST1988,Customer_1988,Male,30,Kolkata,Consumer,East
+CUST1989,Customer_1989,Male,44,Bangalore,Corporate,South
+CUST1990,Customer_1990,Female,53,Pune,Consumer,West
+CUST1991,Customer_1991,Female,24,Hyderabad,Consumer,South
+CUST1992,Customer_1992,Male,39,Kolkata,Consumer,East
+CUST1993,Customer_1993,Female,27,Pune,Home Office,West
+CUST1994,Customer_1994,Male,56,Chennai,Consumer,South
+CUST1995,Customer_1995,Female,32,Chennai,Consumer,South
+CUST1996,Customer_1996,Female,32,Bangalore,Consumer,South
+CUST1997,Customer_1997,Female,21,Bangalore,Corporate,South
+CUST1998,Customer_1998,Male,49,Ahmedabad,Consumer,West
+CUST1999,Customer_1999,Male,40,Ahmedabad,Corporate,West
+CUST2000,Customer_2000,Male,23,Kolkata,Consumer,East

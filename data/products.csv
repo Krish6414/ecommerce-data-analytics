@@ -1,0 +1,101 @@
+Product_ID,Product_Name,Category,Sub_Category,Brand,Cost_Price
+PROD001,Product_1,Electronics,Laptop,Brand D,19397
+PROD002,Product_2,Home & Kitchen,Accessories,Brand E,8668
+PROD003,Product_3,Furniture,Shoes,Brand C,7361
+PROD004,Product_4,Clothing,Mobile,Brand C,42258
+PROD005,Product_5,Furniture,Table,Brand B,14250
+PROD006,Product_6,Electronics,Shoes,Brand E,17488
+PROD007,Product_7,Electronics,Kitchen,Brand C,3479
+PROD008,Product_8,Home & Kitchen,Chair,Brand C,24024
+PROD009,Product_9,Clothing,Mobile,Brand B,7565
+PROD010,Product_10,Electronics,Accessories,Brand D,38184
+PROD011,Product_11,Clothing,Laptop,Brand C,23684
+PROD012,Product_12,Clothing,Table,Brand A,33865
+PROD013,Product_13,Clothing,Shirt,Brand A,24204
+PROD014,Product_14,Clothing,Table,Brand D,6122
+PROD015,Product_15,Clothing,Shoes,Brand E,18761
+PROD016,Product_16,Furniture,Chair,Brand B,45432
+PROD017,Product_17,Home & Kitchen,Table,Brand A,28919
+PROD018,Product_18,Clothing,Shirt,Brand A,34967
+PROD019,Product_19,Furniture,Kitchen,Brand D,26105
+PROD020,Product_20,Electronics,Laptop,Brand E,29671
+PROD021,Product_21,Clothing,Mobile,Brand E,22664
+PROD022,Product_22,Electronics,Chair,Brand D,46697
+PROD023,Product_23,Clothing,Shirt,Brand A,14296
+PROD024,Product_24,Furniture,Accessories,Brand B,37354
+PROD025,Product_25,Furniture,Shoes,Brand A,31820
+PROD026,Product_26,Furniture,Shoes,Brand E,1165
+PROD027,Product_27,Home & Kitchen,Shoes,Brand A,33194
+PROD028,Product_28,Electronics,Accessories,Brand B,24730
+PROD029,Product_29,Home & Kitchen,Accessories,Brand C,23495
+PROD030,Product_30,Clothing,Chair,Brand A,27284
+PROD031,Product_31,Electronics,Table,Brand D,15105
+PROD032,Product_32,Furniture,Chair,Brand C,17963
+PROD033,Product_33,Electronics,Shoes,Brand D,8919
+PROD034,Product_34,Furniture,Kitchen,Brand D,48452
+PROD035,Product_35,Home & Kitchen,Shirt,Brand D,34337
+PROD036,Product_36,Home & Kitchen,Mobile,Brand A,5763
+PROD037,Product_37,Furniture,Mobile,Brand E,49377
+PROD038,Product_38,Furniture,Chair,Brand C,41219
+PROD039,Product_39,Clothing,Shoes,Brand B,46187
+PROD040,Product_40,Home & Kitchen,Accessories,Brand E,34631
+PROD041,Product_41,Home & Kitchen,Laptop,Brand A,37776
+PROD042,Product_42,Clothing,Kitchen,Brand D,35023
+PROD043,Product_43,Home & Kitchen,Chair,Brand B,1019
+PROD044,Product_44,Furniture,Shoes,Brand C,31606
+PROD045,Product_45,Electronics,Table,Brand E,45004
+PROD046,Product_46,Electronics,Mobile,Brand E,11014
+PROD047,Product_47,Home & Kitchen,Mobile,Brand B,47956
+PROD048,Product_48,Clothing,Kitchen,Brand A,7733
+PROD049,Product_49,Furniture,Mobile,Brand C,1602
+PROD050,Product_50,Electronics,Laptop,Brand B,1097
+PROD051,Product_51,Furniture,Shoes,Brand D,47215
+PROD052,Product_52,Home & Kitchen,Shoes,Brand C,20157
+PROD053,Product_53,Home & Kitchen,Kitchen,Brand E,45509
+PROD054,Product_54,Electronics,Shoes,Brand B,39049
+PROD055,Product_55,Home & Kitchen,Accessories,Brand E,44065
+PROD056,Product_56,Clothing,Kitchen,Brand E,6756
+PROD057,Product_57,Home & Kitchen,Shoes,Brand E,43648
+PROD058,Product_58,Home & Kitchen,Laptop,Brand A,29901
+PROD059,Product_59,Home & Kitchen,Shirt,Brand E,42048
+PROD060,Product_60,Furniture,Chair,Brand D,7054
+PROD061,Product_61,Furniture,Chair,Brand D,13164
+PROD062,Product_62,Electronics,Shoes,Brand C,42867
+PROD063,Product_63,Electronics,Table,Brand E,48779
+PROD064,Product_64,Electronics,Mobile,Brand E,24886
+PROD065,Product_65,Home & Kitchen,Laptop,Brand B,5346
+PROD066,Product_66,Furniture,Table,Brand A,26705
+PROD067,Product_67,Clothing,Accessories,Brand C,26070
+PROD068,Product_68,Home & Kitchen,Table,Brand E,30755
+PROD069,Product_69,Home & Kitchen,Shoes,Brand B,21682
+PROD070,Product_70,Home & Kitchen,Laptop,Brand A,39873
+PROD071,Product_71,Clothing,Chair,Brand C,43519
+PROD072,Product_72,Electronics,Mobile,Brand C,16543
+PROD073,Product_73,Clothing,Chair,Brand E,46032
+PROD074,Product_74,Electronics,Table,Brand C,36254
+PROD075,Product_75,Clothing,Accessories,Brand B,900
+PROD076,Product_76,Furniture,Mobile,Brand C,19739
+PROD077,Product_77,Home & Kitchen,Shirt,Brand D,10916
+PROD078,Product_78,Home & Kitchen,Table,Brand B,3912
+PROD079,Product_79,Home & Kitchen,Chair,Brand A,16940
+PROD080,Product_80,Electronics,Chair,Brand A,24906
+PROD081,Product_81,Clothing,Shoes,Brand E,2375
+PROD082,Product_82,Furniture,Chair,Brand E,37566
+PROD083,Product_83,Clothing,Laptop,Brand D,37036
+PROD084,Product_84,Home & Kitchen,Table,Brand A,6252
+PROD085,Product_85,Furniture,Kitchen,Brand A,21717
+PROD086,Product_86,Furniture,Kitchen,Brand A,12989
+PROD087,Product_87,Home & Kitchen,Accessories,Brand A,1853
+PROD088,Product_88,Clothing,Mobile,Brand C,27486
+PROD089,Product_89,Home & Kitchen,Chair,Brand B,21871
+PROD090,Product_90,Clothing,Shoes,Brand B,39865
+PROD091,Product_91,Furniture,Shoes,Brand D,15191
+PROD092,Product_92,Furniture,Chair,Brand C,4811
+PROD093,Product_93,Home & Kitchen,Laptop,Brand A,48575
+PROD094,Product_94,Furniture,Shoes,Brand A,11294
+PROD095,Product_95,Electronics,Kitchen,Brand E,3434
+PROD096,Product_96,Furniture,Mobile,Brand E,16906
+PROD097,Product_97,Electronics,Table,Brand D,10894
+PROD098,Product_98,Furniture,Shirt,Brand A,27372
+PROD099,Product_99,Home & Kitchen,Laptop,Brand D,42208
+PROD100,Product_100,Home & Kitchen,Accessories,Brand C,41593
